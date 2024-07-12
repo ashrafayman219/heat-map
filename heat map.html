@@ -1,0 +1,264 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+
+  <title>Sales Deals Heat Map</title>
+
+  <link rel="stylesheet" href="https://js.arcgis.com/4.30/esri/themes/light/main.css" />
+
+  <style>
+    html,
+    body,
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+
+  <script src="https://js.arcgis.com/4.30/"></script>
+
+  <script>
+    require([
+      "esri/config",
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/widgets/Legend",
+      "esri/core/reactiveUtils",
+      "esri/layers/CSVLayer",
+      "esri/widgets/LayerList",
+      "esri/widgets/Expand",
+      "esri/widgets/ScaleBar",
+      "esri/widgets/Search",
+      "esri/widgets/BasemapGallery",
+      "esri/widgets/Fullscreen",
+      "esri/widgets/Home"
+    ], (esriConfig, Map, MapView, Legend, reactiveUtils, CSVLayer, LayerList, Expand, ScaleBar, Search, BasemapGallery, Fullscreen, Home) => {
+
+
+      esriConfig.apiKey = "AAPKe96926c67dfd4afb80185e0a1020deafnvFzsj9yYBaj80DS9MWNWPGhkV_K-kXKNIkOzspRqvQ4fQkbcRrhPVfkFafbB1zt";
+
+
+
+      const url = "https://raw.githubusercontent.com/ashrafayman219/heat-map/main/sales%202022%2C%202023.csv";
+      // const url = "https://raw.githubusercontent.com/ashrafayman219/heat-map/main/sales%202022%2C%202023.csv";
+      // const url = "https://raw.githubusercontent.com/ashrafayman219/heat-map/main/sales%202022%2C%202023.csv";
+
+
+      const renderer = {
+        type: "heatmap",
+        colorStops: [
+          { color: "rgba(63, 40, 102, 0)", ratio: 0 },
+          { color: "#472b77", ratio: 0.083 },
+          { color: "#4e2d87", ratio: 0.166 },
+          { color: "#563098", ratio: 0.249 },
+          { color: "#5d32a8", ratio: 0.332 },
+          { color: "#6735be", ratio: 0.415 },
+          { color: "#7139d4", ratio: 0.498 },
+          { color: "#7b3ce9", ratio: 0.581 },
+          { color: "#853fff", ratio: 0.664 },
+          { color: "#a46fbf", ratio: 0.747 },
+          { color: "#c29f80", ratio: 0.83 },
+          { color: "#e0cf40", ratio: 0.913 },
+          { color: "#ffff00", ratio: 1 }
+        ],
+        maxDensity: 0.01,
+        minDensity: 0
+      };
+
+      const layer01 = new CSVLayer({
+        url: url,
+        title: "Sales deals in 2022, 2023",
+        copyright: "USGS Earthquakes",
+        // popupTemplate: template,
+        renderer: renderer,
+        labelsVisible: true,
+      });
+
+      const map = new Map({
+        basemap: "gray-vector",
+        layers: [layer01]
+      });
+
+      const view = new MapView({
+        container: "viewDiv",
+        center: [-119.417931, 36.778259], // lat and long for CA
+        zoom: 6,
+        map: map
+      });
+
+      view.ui.add(
+        new Legend({
+          view: view
+        }),
+        "bottom-left"
+      );
+
+
+      view.whenLayerView(layer01).then(function (layerView) {
+        view.goTo(
+          {
+            target: layer01.fullExtent,
+          },
+          {
+            duration: 2000,
+          }
+        );
+      })
+
+
+
+      var basemapGallery = new BasemapGallery({
+        view: view,
+      });
+
+      var Expand22 = new Expand({
+        view: view,
+        content: basemapGallery,
+        expandIcon: "basemap",
+        group: "top-right",
+        // expanded: false,
+        expandTooltip: "Open Basmap Gallery",
+        collapseTooltip: "Close",
+      });
+      view.ui.add([Expand22], { position: "top-right", index: 6 });
+
+      var fullscreen = new Fullscreen({
+        view: view,
+      });
+      view.ui.add(fullscreen, "top-right");
+
+      var scalebar = new ScaleBar({
+        view: view,
+        unit: "metric",
+      });
+      view.ui.add(scalebar, "bottom-right");
+
+      var search = new Search({
+        //Add Search widget
+        view: view,
+      });
+      view.ui.add(search, { position: "top-left", index: 0 }); //Add to the map
+
+      var homeWidget = new Home({
+        view: view,
+      });
+      view.ui.add(homeWidget, "top-left");
+
+      var layerList = new LayerList({
+        view: view,
+        listItemCreatedFunction: function (event) {
+          var item = event.item;
+          // displays the legend for each layer list item
+          item.panel = {
+            content: "legend",
+          };
+        },
+        showLegend: true,
+      });
+
+      layerList.visibilityAppearance = "checkbox";
+      var Expand5 = new Expand({
+        view: view,
+        content: layerList,
+        expandIcon: "layers",
+        group: "top-right",
+        // expanded: false,
+        expandTooltip: "Layer List",
+        collapseTooltip: "Close",
+      });
+      Expand5.expanded = true;
+      view.ui.add([Expand5], { position: "top-left", index: 6 });
+
+
+
+      // const map = new Map({
+      //   portalItem: {
+      //     id: "559f46c1162d4a09901438d92148e53a"
+      //   }
+      // });
+
+      // const view = new MapView({
+      //   container: "viewDiv",
+      //   map: map,
+      //   constraints: {
+      //     minScale: 1155582
+      //   }
+      // });
+
+      // view.ui.add(
+      //   new Legend({
+      //     view: view
+      //   }),
+      //   "bottom-left"
+      // );
+
+
+      // view.when().then(() => {
+      //   // When the view is ready, clone the heatmap renderer
+      //   // from the only layer in the web map
+
+      //   const layer = view.map.layers.getItemAt(0);
+      //   const heatmapRenderer = layer.renderer.clone();
+
+      //   // The following simple renderer will render all points as simple
+      //   // markers at certain scales
+      //   const simpleRenderer = {
+      //     type: "simple",
+      //     symbol: {
+      //       type: "simple-marker",
+      //       color: "#c80000",
+      //       size: 5
+      //     }
+      //   };
+
+      //   // When the scale is larger than 1:72,224 (zoomed in passed that scale),
+      //   // then switch from a heatmap renderer to a simple renderer. When zoomed
+      //   // out beyond that scale, switch back to the heatmap renderer
+      //   reactiveUtils.watch(
+      //     () => view.scale,
+      //     (scale) => {
+      //       layer.renderer = scale <= 72224 ? simpleRenderer : heatmapRenderer;
+      //     }
+      //   );
+      // });
+
+
+      // // Displays instructions to the user for understanding the sample
+      // // And places them in an Expand widget instance
+      // const sampleInstructions = document.createElement("div");
+      // sampleInstructions.style.padding = "10px";
+      // sampleInstructions.style.backgroundColor = "white";
+      // sampleInstructions.style.width = "300px";
+      // sampleInstructions.innerText = [
+      //   "As you zoom in, the style will switch from a",
+      //   "heatmap to individual points."
+      // ].join(" ");
+
+      // const instructionsExpand = new Expand({
+      //   expandIcon: "question",
+      //   expandTooltip: "How to use this sample",
+      //   expanded: true,
+      //   view: view,
+      //   content: sampleInstructions
+      // });
+      // view.ui.add(instructionsExpand, "top-left");
+
+      // // Hide the instructions when the user starts interacting with the sample
+      // reactiveUtils
+      //   .whenOnce(() => view.interacting)
+      //   .then(() => {
+      //     instructionsExpand.expanded = false;
+      //   });
+    });
+  </script>
+</head>
+
+<body>
+  <div id="viewDiv"></div>
+</body>
+
+</html>
