@@ -74,18 +74,22 @@
         url: url,
         title: "Sales deals in 2022, 2023",
         popupTemplate: {
-          title: "{Match_addresse}",
+          title: "{Full Property Address}",
           content: [
             {
               type: "fields",
               fieldInfos: [
                 {
-                  fieldName: "Customer_Name",
+                  fieldName: "Date sold",
                   label: "Customer Name",
                 },
                 {
-                  fieldName: "Date of Sale",
+                  fieldName: "Name",
                   label: "Date of Sale",
+                },
+                {
+                  fieldName: "Name",
+                  label: "Zestimate",
                 },
                 {
                   fieldName: "deal size amount",
@@ -103,18 +107,22 @@
         url: url02,
         title: "Sales deals in 2022",
         popupTemplate: {
-          title: "{Match_addresse}",
+          title: "{Full Property Address}",
           content: [
             {
               type: "fields",
               fieldInfos: [
                 {
-                  fieldName: "Customer_Name",
+                  fieldName: "Date sold",
                   label: "Customer Name",
                 },
                 {
-                  fieldName: "Date of Sale",
+                  fieldName: "Name",
                   label: "Date of Sale",
+                },
+                {
+                  fieldName: "Name",
+                  label: "Zestimate",
                 },
                 {
                   fieldName: "deal size amount",
@@ -132,18 +140,22 @@
         url: url03,
         title: "Sales deals in 2023",
         popupTemplate: {
-          title: "{Match_addresse}",
+          title: "{Full Property Address}",
           content: [
             {
               type: "fields",
               fieldInfos: [
                 {
-                  fieldName: "Customer_Name",
+                  fieldName: "Date sold",
                   label: "Customer Name",
                 },
                 {
-                  fieldName: "Date of Sale",
+                  fieldName: "Name",
                   label: "Date of Sale",
+                },
+                {
+                  fieldName: "Name",
+                  label: "Zestimate",
                 },
                 {
                   fieldName: "deal size amount",
@@ -189,6 +201,38 @@
         );
       })
 
+      view.when().then(() => {
+        // When the view is ready, clone the heatmap renderer
+        // from the only layer in the web map
+
+        for (let i = 0; i < view.map.layers.length; i++) {
+          const layer = view.map.layers.getItemAt(i);
+          const heatmapRenderer = layer.renderer.clone();
+
+          // The following simple renderer will render all points as simple
+          // markers at certain scales
+          const simpleRenderer = {
+            type: "simple",
+            symbol: {
+              type: "picture-marker",  // autocasts as new PictureMarkerSymbol()
+              url: "https://daraobeirne.github.io/kisspng-drawing-pin-world-map-logo-push-vector-5ae029f6ddeaf4.198342921524640246909.png",
+              width: "30px",
+              height: "30px"
+            }
+          };
+
+          // When the scale is larger than 1:72,224 (zoomed in passed that scale),
+          // then switch from a heatmap renderer to a simple renderer. When zoomed
+          // out beyond that scale, switch back to the heatmap renderer
+          reactiveUtils.watch(
+            () => view.scale,
+            (scale) => {
+              layer.renderer = scale <= 72224 ? simpleRenderer : heatmapRenderer;
+            }
+          );
+        }
+
+      });
 
 
       var basemapGallery = new BasemapGallery({
@@ -277,34 +321,7 @@
       // );
 
 
-      // view.when().then(() => {
-      //   // When the view is ready, clone the heatmap renderer
-      //   // from the only layer in the web map
 
-      //   const layer = view.map.layers.getItemAt(0);
-      //   const heatmapRenderer = layer.renderer.clone();
-
-      //   // The following simple renderer will render all points as simple
-      //   // markers at certain scales
-      //   const simpleRenderer = {
-      //     type: "simple",
-      //     symbol: {
-      //       type: "simple-marker",
-      //       color: "#c80000",
-      //       size: 5
-      //     }
-      //   };
-
-      //   // When the scale is larger than 1:72,224 (zoomed in passed that scale),
-      //   // then switch from a heatmap renderer to a simple renderer. When zoomed
-      //   // out beyond that scale, switch back to the heatmap renderer
-      //   reactiveUtils.watch(
-      //     () => view.scale,
-      //     (scale) => {
-      //       layer.renderer = scale <= 72224 ? simpleRenderer : heatmapRenderer;
-      //     }
-      //   );
-      // });
 
 
       // // Displays instructions to the user for understanding the sample
