@@ -1,613 +1,992 @@
-Match_addresse,City,Subregion,Region,X,Y,Date of Sale,Sale_Type,Sale_No,Name of Client,Sale_Method,Sale_Aging,Customer_Email,deal size amount,Sale_Status,Customer_Name,Street_Address
-"239 River Acres Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5543881,38.49679445,01/01/2022,Invoice,1793,sam bates,,778,,11000,paid,sam bates,"239 River Acres Dr, Sacramento, CA 95831"
-"239 River Acres Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5543881,38.49679445,01/06/2022,Payment,6675,sam bates,Check,786,,-11000,applied,sam bates,"239 River Acres Dr, Sacramento, CA 95831"
-"239 River Acres Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5543881,38.49679445,01/06/2022,Invoice,1792,sam bates,,818,,400,paid,sam bates,"239 River Acres Dr, Sacramento, CA 95831"
-"239 River Acres Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5543881,38.49679445,01/06/2022,Payment,6672,sam bates,Check,818,,-400,applied,sam bates,"239 River Acres Dr, Sacramento, CA 95831"
-"6989 Treasure Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.540212,38.4998028,01/06/2022,Payment,1242,koji nishimoto,Check,363,,-10000,applied,koji nishimoto,"6989 Treasure Way, Sacramento, CA 95831"
-"6989 Treasure Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.540212,38.4998028,01/07/2022,Invoice,1925,koji nishimoto,,363,,10000,paid,koji nishimoto,"6989 Treasure Way, Sacramento, CA 95831"
-"6989 Treasure Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.540212,38.4998028,01/07/2022,Payment,7649,koji nishimoto,Check,391,,-700,applied,koji nishimoto,"6989 Treasure Way, Sacramento, CA 95831"
-"6989 Treasure Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.540212,38.4998028,01/07/2022,Invoice,1924,koji nishimoto,,391,,700,paid,koji nishimoto,"6989 Treasure Way, Sacramento, CA 95831"
-"745 Rivercrest Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5325972,38.51398272,01/11/2022,Payment,0483,lauren yamane,Check,804,,-200,applied,lauren yamane,"745 Rivercrest Dr, Sacramento, CA 95831"
-"745 Rivercrest Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5325972,38.51398272,01/17/2022,Invoice,1816,lauren yamane,,804,,200,paid,lauren yamane,"745 Rivercrest Dr, Sacramento, CA 95831"
-"2957 Mojave Dr, West Sacramento, California, 95691",West Sacramento,Yolo County,California,-121.5323567,38.54487716,01/18/2022,Payment,1973,Rachelle Rapheal,Check,899,,-10200,applied,Rachelle Rapheal,2957 Mojave Dr CA
-"2957 Mojave Dr, West Sacramento, California, 95691",West Sacramento,Yolo County,California,-121.5323567,38.54487716,01/18/2022,Payment,191,Rachelle Rapheal,Check,905,,-10000,applied,Rachelle Rapheal,2957 Mojave Dr CA
-"2957 Mojave Dr, West Sacramento, California, 95691",West Sacramento,Yolo County,California,-121.5323567,38.54487716,01/18/2022,Invoice,1724,Rachelle Rapheal,,906,,20200,paid,Rachelle Rapheal,2957 Mojave Dr CA
-"1648 Stetson Cir, West Sacramento, California, 95691",West Sacramento,Yolo County,California,-121.531325,38.55149299,01/19/2022,Payment,590,linda ly,Check,701,,-200,applied,linda ly,"1648 Stetson Cir, West Sacramento, CA 95691"
-"1648 Stetson Cir, West Sacramento, California, 95691",West Sacramento,Yolo County,California,-121.531325,38.55149299,01/20/2022,Invoice,1849,linda ly,,701,,200,paid,linda ly,"1648 Stetson Cir, West Sacramento, CA 95691"
-"5 Southcrest Ct, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5249434,38.47753552,01/20/2022,Payment,6908,morris lee,Check,770,,-12000,applied,morris lee,"5 Southcrest Ct, Sacramento, CA 95831"
-"5 Southcrest Ct, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5249434,38.47753552,01/20/2022,Invoice,1802,morris lee,,770,,12000,paid,morris lee,"5 Southcrest Ct, Sacramento, CA 95831"
-"5 Southcrest Ct, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5249434,38.47753552,01/24/2022,Payment,6907,morris lee,Check,814,,-500,applied,morris lee,"5 Southcrest Ct, Sacramento, CA 95831"
-"5 Southcrest Ct, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5249434,38.47753552,01/26/2022,Invoice,1801,morris lee,,814,,500,paid,morris lee,"5 Southcrest Ct, Sacramento, CA 95831"
-"5723 Grassington Ln, Sacramento, California, 95835",Sacramento,Sacramento County,California,-121.5212194,38.6812182,01/26/2022,Payment,1002,janell yung,Check,464,,-5000,applied,janell yung,"5723 Grassington Ln, Sacramento, CA 95835"
-"5723 Grassington Ln, Sacramento, California, 95835",Sacramento,Sacramento County,California,-121.5212194,38.6812182,01/28/2022,Invoice,1876,janell yung,,482,,5000,paid,janell yung,"5723 Grassington Ln, Sacramento, CA 95835"
-"5723 Grassington Ln, Sacramento, California, 95835",Sacramento,Sacramento County,California,-121.5212194,38.6812182,01/28/2022,Payment,5189,janell yung,Check,631,,-500,applied,janell yung,"5723 Grassington Ln, Sacramento, CA 95835"
-"5723 Grassington Ln, Sacramento, California, 95835",Sacramento,Sacramento County,California,-121.5212194,38.6812182,01/28/2022,Invoice,1875,janell yung,,631,,500,paid,janell yung,"5723 Grassington Ln, Sacramento, CA 95835"
-"7689 Greenhaven Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5154036,38.47780056,01/28/2022,Payment,2454,kim pederson,Check,288,,-7500,applied,kim pederson,"7689 Greenhaven Dr, Sacramento, CA 95831"
-"7689 Greenhaven Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5154036,38.47780056,01/28/2022,Invoice,1950,kim pederson,,288,,7500,paid,kim pederson,"7689 Greenhaven Dr, Sacramento, CA 95831"
-"7689 Greenhaven Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5154036,38.47780056,01/28/2022,Payment,2451,kim pederson,Check,332,,-300,applied,kim pederson,"7689 Greenhaven Dr, Sacramento, CA 95831"
-"7689 Greenhaven Dr, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5154036,38.47780056,01/28/2022,Invoice,1949,kim pederson,,332,,300,paid,kim pederson,"7689 Greenhaven Dr, Sacramento, CA 95831"
-"7595 River Ranch Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5117242,38.4802534,01/28/2022,Payment,4884,patrick hankins,Check,808,patrick.alan.hankins@gmail.com,-14000,applied,patrick hankins,"7595 River Ranch Way, Sacramento, CA 95831,"
-"7595 River Ranch Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5117242,38.4802534,01/31/2022,Invoice,1772,patrick hankins,,808,patrick.alan.hankins@gmail.com,14000,paid,patrick hankins,"7595 River Ranch Way, Sacramento, CA 95831,"
-"7595 River Ranch Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5117242,38.4802534,01/31/2022,Payment,,patrick hankins,QuickBooks Payments-Bank,861,,-500,applied,patrick hankins,"7595 River Ranch Way, Sacramento, CA 95831,"
-"7595 River Ranch Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5117242,38.4802534,01/31/2022,Invoice,1771,patrick hankins,,861,patrick.alan.hankins@gmail.com,500,paid,patrick hankins,"7595 River Ranch Way, Sacramento, CA 95831,"
-"6561 Longridge Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5086754,38.50771398,01/31/2022,Invoice,1901,Mike Orbanosky,,422,,5665,paid,Mike Orbanosky,"6561 Longridge Way, Sacramento, CA 95831"
-"6561 Longridge Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5086754,38.50771398,02/02/2022,Payment,paymenttech,Mike Orbanosky,Credit Card,423,orbanoskyj@gmail.com,-5665,applied,Mike Orbanosky,"6561 Longridge Way, Sacramento, CA 95831"
-"6561 Longridge Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5086754,38.50771398,02/02/2022,Payment,,Mike Orbanosky,Credit Card,490,,-515,applied,Mike Orbanosky,"6561 Longridge Way, Sacramento, CA 95831"
-"6561 Longridge Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5086754,38.50771398,02/02/2022,Invoice,1900,Mike Orbanosky,,490,orbanoskyj@gmail.com,515,paid,Mike Orbanosky,"6561 Longridge Way, Sacramento, CA 95831"
-"1351 Munger Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5080944,38.50695495,02/04/2022,Payment,3576,Maril O' Shaugnessy,Check,275,,-8500,applied,Maril O' Shaugnessy,"1351 Munger Way, Sacramento, CA 95831"
-"1351 Munger Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5080944,38.50695495,02/04/2022,Invoice,1933,Maril O' Shaugnessy,,275,,8500,paid,Maril O' Shaugnessy,"1351 Munger Way, Sacramento, CA 95831"
-"1351 Munger Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5080944,38.50695495,02/07/2022,Payment,6901,Maril O' Shaugnessy,Check,363,,-500,applied,Maril O' Shaugnessy,"1351 Munger Way, Sacramento, CA 95831"
-"1351 Munger Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5080944,38.50695495,02/07/2022,Invoice,1932,Maril O' Shaugnessy,,363,,500,paid,Maril O' Shaugnessy,"1351 Munger Way, Sacramento, CA 95831"
-"6674 Fordham Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5080203,38.50502582,02/09/2022,Invoice,1824,grace aughney,,727,graceaughney3639@comcast.net,12500,paid,grace aughney,"6674 Fordham Way, Sacramento, CA 95831"
-"6674 Fordham Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5080203,38.50502582,02/09/2022,Payment,8578,grace aughney,Check,729,graceaughney3639@comcast.net,-4500,applied,grace aughney,"6674 Fordham Way, Sacramento, CA 95831"
-"6674 Fordham Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5080203,38.50502582,02/15/2022,Payment,8530,grace aughney,Check,734,graceaughney3639@comcast.net,-8000,applied,grace aughney,"6674 Fordham Way, Sacramento, CA 95831"
-"6674 Fordham Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5080203,38.50502582,02/15/2022,Payment,8507,grace aughney,Check,790,graceaughney3639@comcast.net,-500,applied,grace aughney,"6674 Fordham Way, Sacramento, CA 95831"
-"6674 Fordham Way, Sacramento, California, 95831",Sacramento,Sacramento County,California,-121.5080203,38.50502582,02/15/2022,Invoice,1823,grace aughney,,790,graceaughney3639@comcast.net,500,paid,grace aughney,"6674 Fordham Way, Sacramento, CA 95831"
-"1883 Zurlo Way, Sacramento, California, 95835",Sacramento,Sacramento County,California,-121.5040053,38.68408934,02/15/2022,Invoice,1754,tracy snyder,,825,,5000,paid,tracy snyder,"1883 Zurlo Way, Sacramento, CA 95835"
-"1883 Zurlo Way, Sacramento, California, 95835",Sacramento,Sacramento County,California,-121.5040053,38.68408934,02/15/2022,Payment,2374,tracy snyder,Check,832,,-5000,applied,tracy snyder,"1883 Zurlo Way, Sacramento, CA 95835"
-"1883 Zurlo Way, Sacramento, California, 95835",Sacramento,Sacramento County,California,-121.5040053,38.68408934,02/15/2022,Payment,2367,tracy snyder,Check,877,,-400,applied,tracy snyder,"1883 Zurlo Way, Sacramento, CA 95835"
-"1883 Zurlo Way, Sacramento, California, 95835",Sacramento,Sacramento County,California,-121.5040053,38.68408934,02/15/2022,Invoice,1753,tracy snyder,,877,,400,paid,tracy snyder,"1883 Zurlo Way, Sacramento, CA 95835"
-"1664 Fern Glen Ave, Sacramento, California, 95834",Sacramento,Sacramento County,California,-121.4968347,38.65039057,02/15/2022,Invoice,1887,ryan exner,,451,,13000,paid,ryan exner,"1664 Fern Glen Ave, Sacramento, CA 95834"
-"1664 Fern Glen Ave, Sacramento, California, 95834",Sacramento,Sacramento County,California,-121.4968347,38.65039057,02/15/2022,Payment,379,ryan exner,Check,461,,-6500,applied,ryan exner,"1664 Fern Glen Ave, Sacramento, CA 95834"
-"1664 Fern Glen Ave, Sacramento, California, 95834",Sacramento,Sacramento County,California,-121.4968347,38.65039057,02/15/2022,Payment,378,ryan exner,Check,463,,-6500,applied,ryan exner,"1664 Fern Glen Ave, Sacramento, CA 95834"
-"1664 Fern Glen Ave, Sacramento, California, 95834",Sacramento,Sacramento County,California,-121.4968347,38.65039057,02/15/2022,Payment,373,ryan exner,Check,534,,-500,applied,ryan exner,"1664 Fern Glen Ave, Sacramento, CA 95834"
-"1664 Fern Glen Ave, Sacramento, California, 95834",Sacramento,Sacramento County,California,-121.4968347,38.65039057,02/15/2022,Invoice,1886,ryan exner,,534,,500,paid,ryan exner,"1664 Fern Glen Ave, Sacramento, CA 95834"
-"2301 5th Ave, Sacramento, California, 95818",Sacramento,Sacramento County,California,-121.4857391,38.54985265,02/15/2022,Payment,7130,dennis kojima,Check,814,,-15500,applied,dennis kojima,"2301 5th Ave, Sacramento, CA 95818"
-"2301 5th Ave, Sacramento, California, 95818",Sacramento,Sacramento County,California,-121.4857391,38.54985265,02/16/2022,Invoice,1756,dennis kojima,,818,,25500,paid,dennis kojima,"2301 5th Ave, Sacramento, CA 95818"
-"2301 5th Ave, Sacramento, California, 95818",Sacramento,Sacramento County,California,-121.4857391,38.54985265,02/17/2022,Payment,7117,dennis kojima,Check,832,,-10000,applied,dennis kojima,"2301 5th Ave, Sacramento, CA 95818"
-"2301 5th Ave, Sacramento, California, 95818",Sacramento,Sacramento County,California,-121.4857391,38.54985265,02/18/2022,Payment,7085,dennis kojima,Check,877,,-500,applied,dennis kojima,"2301 5th Ave, Sacramento, CA 95818"
-"2301 5th Ave, Sacramento, California, 95818",Sacramento,Sacramento County,California,-121.4857391,38.54985265,02/22/2022,Invoice,1755,dennis kojima,,877,,500,paid,dennis kojima,"2301 5th Ave, Sacramento, CA 95818"
-"9213 Brigantine Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4771679,38.42305022,02/23/2022,Payment,,sarah takekawa,Credit Card,365,,-12875,applied,sarah takekawa,"9213 Brigantine Ct, Elk Grove, CA 95758"
-"9213 Brigantine Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4771679,38.42305022,02/23/2022,Invoice,1923,sarah takekawa,,365,,12875,paid,sarah takekawa,"9213 Brigantine Ct, Elk Grove, CA 95758"
-"9213 Brigantine Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4771679,38.42305022,02/24/2022,Payment,1350,sarah takekawa,Check,391,,-500,applied,sarah takekawa,"9213 Brigantine Ct, Elk Grove, CA 95758"
-"9213 Brigantine Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4771679,38.42305022,02/24/2022,Invoice,1922,sarah takekawa,,391,,500,paid,sarah takekawa,"9213 Brigantine Ct, Elk Grove, CA 95758"
-"2812 Babson Dr, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.47444,38.41717329,02/28/2022,Payment,,William Kong,QuickBooks Payments-Bank,890,,-4500,applied,William Kong,2812 Babson Dr CA
-"2812 Babson Dr, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.47444,38.41717329,02/28/2022,Invoice,1001,William Kong,,890,iamwillkong@gmail.com,4500,paid,William Kong,2812 Babson Dr CA
-"525 Los Garcias Ln, Elverta, California, 95626",Elverta,Sacramento County,California,-121.4728432,38.73319438,02/28/2022,Invoice,1855,debbie logdson,,559,,12500,paid,debbie logdson,"525 Los Garcias Ln, Elverta, CA 95626"
-"525 Los Garcias Ln, Elverta, California, 95626",Elverta,Sacramento County,California,-121.4728432,38.73319438,02/28/2022,Payment,5934,debbie logdson,Check,577,,-6500,applied,debbie logdson,"525 Los Garcias Ln, Elverta, CA 95626"
-"525 Los Garcias Ln, Elverta, California, 95626",Elverta,Sacramento County,California,-121.4728432,38.73319438,02/28/2022,Payment,5933,debbie logdson,Check,582,,-6000,applied,debbie logdson,"525 Los Garcias Ln, Elverta, CA 95626"
-"2512 D St, Sacramento, California, 95816",Sacramento,Sacramento County,California,-121.4698284,38.58132611,02/28/2022,Payment,3901,ray anderson,Check,659,,-350,applied,ray anderson,"2512 D St, Sacramento, CA 95816"
-"2512 D St, Sacramento, California, 95816",Sacramento,Sacramento County,California,-121.4698284,38.58132611,03/01/2022,Invoice,1869,ray anderson,,659,,350,paid,ray anderson,"2512 D St, Sacramento, CA 95816"
-"3917 Miller Way, Sacramento, California, 95817",Sacramento,Sacramento County,California,-121.4620971,38.55559719,03/01/2022,Invoice,1842,Brittany Newton,,643,,10800,paid,Brittany Newton,"3917 Miller Way, Sacramento, CA 95817"
-"3917 Miller Way, Sacramento, California, 95817",Sacramento,Sacramento County,California,-121.4620971,38.55559719,03/03/2022,Payment,217,Brittany Newton,Check,645,,-10800,applied,Brittany Newton,"3917 Miller Way, Sacramento, CA 95817"
-"3917 Miller Way, Sacramento, California, 95817",Sacramento,Sacramento County,California,-121.4620971,38.55559719,03/03/2022,Payment,214,Brittany Newton,Check,708,,-500,applied,Brittany Newton,"3917 Miller Way, Sacramento, CA 95817"
-"3917 Miller Way, Sacramento, California, 95817",Sacramento,Sacramento County,California,-121.4620971,38.55559719,03/03/2022,Invoice,1841,Brittany Newton,,708,,500,paid,Brittany Newton,"3917 Miller Way, Sacramento, CA 95817"
-"4112 E Nichols Ave, Sacramento, California, 95820",Sacramento,Sacramento County,California,-121.4585798,38.53736366,03/03/2022,Invoice,1736,erika klein,,876,,4500,paid,erika klein,"4112 E Nichols Ave, Sacramento, CA 95820"
-"4112 E Nichols Ave, Sacramento, California, 95820",Sacramento,Sacramento County,California,-121.4585798,38.53736366,03/03/2022,Payment,1274,erika klein,Check,875,,-4500,applied,erika klein,"4112 E Nichols Ave, Sacramento, CA 95820"
-"261 San Miguel Way, Sacramento, California, 95819",Sacramento,Sacramento County,California,-121.4524521,38.57868841,03/03/2022,Payment,236,Bryce wilson,Check,555,,-2000,applied,Bryce wilson,"261 San Miguel Way, Sacramento, CA 95819"
-"261 San Miguel Way, Sacramento, California, 95819",Sacramento,Sacramento County,California,-121.4524521,38.57868841,03/04/2022,Invoice,1883,Bryce wilson,,555,brwilson9@gmail.com,2000,paid,Bryce wilson,"261 San Miguel Way, Sacramento, CA 95819"
-"261 San Miguel Way, Sacramento, California, 95819",Sacramento,Sacramento County,California,-121.4524521,38.57868841,03/04/2022,Payment,218,Bryce wilson,Check,708,,-5000,applied,Bryce wilson,"261 San Miguel Way, Sacramento, CA 95819"
-"261 San Miguel Way, Sacramento, California, 95819",Sacramento,Sacramento County,California,-121.4524521,38.57868841,03/04/2022,Invoice,1827,Bryce wilson,,708,,14000,paid,Bryce wilson,"261 San Miguel Way, Sacramento, CA 95819"
-"261 San Miguel Way, Sacramento, California, 95819",Sacramento,Sacramento County,California,-121.4524521,38.57868841,03/04/2022,Payment,215,Bryce wilson,Check,713,,-4500,applied,Bryce wilson,"261 San Miguel Way, Sacramento, CA 95819"
-"261 San Miguel Way, Sacramento, California, 95819",Sacramento,Sacramento County,California,-121.4524521,38.57868841,03/09/2022,Payment,214,Bryce wilson,Check,714,,-4500,applied,Bryce wilson,"261 San Miguel Way, Sacramento, CA 95819"
-"261 San Miguel Way, Sacramento, California, 95819",Sacramento,Sacramento County,California,-121.4524521,38.57868841,03/11/2022,Payment,208,Bryce wilson,Check,772,,-500,applied,Bryce wilson,"261 San Miguel Way, Sacramento, CA 95819"
-"261 San Miguel Way, Sacramento, California, 95819",Sacramento,Sacramento County,California,-121.4524521,38.57868841,03/11/2022,Invoice,1826,Bryce wilson,,772,,500,paid,Bryce wilson,"261 San Miguel Way, Sacramento, CA 95819"
-"621 Southgate Rd, Sacramento, California, 95815",Sacramento,Sacramento County,California,-121.4518816,38.60330405,03/11/2022,Estimate,1003,Jonathan Sampson,,357,jonasampson@yahoo.com,6000,open,Jonathan Sampson,621 southgate rd Sacramento Ca 95815
-"10532 Fossil Way, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4496731,38.37537588,03/11/2022,Payment,107,stan pinder,Check,510,,-5364,applied,stan pinder,"10532 Fossil Way, Elk Grove, CA 95757"
-"10532 Fossil Way, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4496731,38.37537588,03/11/2022,Payment,,stan pinder,Cash,510,,-5000,applied,stan pinder,"10532 Fossil Way, Elk Grove, CA 95757"
-"10532 Fossil Way, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4496731,38.37537588,03/14/2022,Invoice,1871,stan pinder,,510,,32864,paid,stan pinder,"10532 Fossil Way, Elk Grove, CA 95757"
-"10532 Fossil Way, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4496731,38.37537588,03/14/2022,Payment,103,stan pinder,Check,518,,-10000,applied,stan pinder,"10532 Fossil Way, Elk Grove, CA 95757"
-"10532 Fossil Way, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4496731,38.37537588,03/14/2022,Payment,102,stan pinder,Check,528,,-12500,applied,stan pinder,"10532 Fossil Way, Elk Grove, CA 95757"
-"10532 Fossil Way, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4496731,38.37537588,03/14/2022,Payment,104,stan pinder,Check,654,,-500,applied,stan pinder,"10532 Fossil Way, Elk Grove, CA 95757"
-"10532 Fossil Way, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4496731,38.37537588,03/16/2022,Invoice,1870,stan pinder,,654,,500,paid,stan pinder,"10532 Fossil Way, Elk Grove, CA 95757"
-"9411 Leal Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4482734,38.4154459,03/18/2022,Payment,3064,julia shultz,Check,528,,-5000,applied,julia shultz,"9411 Leal Ct, Elk Grove, CA 95758"
-"9411 Leal Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4482734,38.4154459,03/18/2022,Payment,,julia shultz,Check,539,,-9000,applied,julia shultz,"9411 Leal Ct, Elk Grove, CA 95758"
-"9411 Leal Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4482734,38.4154459,03/18/2022,Payment,3063,julia shultz,Check,541,,-5000,applied,julia shultz,"9411 Leal Ct, Elk Grove, CA 95758"
-"9411 Leal Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4482734,38.4154459,03/18/2022,Invoice,1860,julia shultz,,545,,29000,paid,julia shultz,"9411 Leal Ct, Elk Grove, CA 95758"
-"9411 Leal Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4482734,38.4154459,03/18/2022,Payment,3061,julia shultz,Check,554,,-10000,applied,julia shultz,"9411 Leal Ct, Elk Grove, CA 95758"
-"9411 Leal Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4482734,38.4154459,03/18/2022,Payment,3054,julia shultz,Check,672,,-500,applied,julia shultz,"9411 Leal Ct, Elk Grove, CA 95758"
-"9411 Leal Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4482734,38.4154459,03/21/2022,Invoice,1859,julia shultz,,672,,500,paid,julia shultz,"9411 Leal Ct, Elk Grove, CA 95758"
-"9316 Laguna Lake Way, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4319635,38.41582703,03/21/2022,Invoice,1935,Dianne Copland,,314,wikiup5002@aol.com,18500,paid,Dianne Copland,"9316 Laguna Lake Way, Elk Grove, CA 95758"
-"9316 Laguna Lake Way, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4319635,38.41582703,03/21/2022,Payment,1254,Dianne Copland,Check,321,wikiup5002@aol.com,-10500,applied,Dianne Copland,"9316 Laguna Lake Way, Elk Grove, CA 95758"
-"9316 Laguna Lake Way, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4319635,38.41582703,03/21/2022,Payment,,Dianne Copland,Cash,322,wikiup5002@aol.com,-8000,applied,Dianne Copland,"9316 Laguna Lake Way, Elk Grove, CA 95758"
-"9316 Laguna Lake Way, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4319635,38.41582703,03/23/2022,Payment,1239,Dianne Copland,Check,371,wikiup5002@aol.com,-500,applied,Dianne Copland,"9316 Laguna Lake Way, Elk Grove, CA 95758"
-"9316 Laguna Lake Way, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.4319635,38.41582703,03/23/2022,Invoice,1934,Dianne Copland,,371,wikiup5002@aol.com,500,paid,Dianne Copland,"9316 Laguna Lake Way, Elk Grove, CA 95758"
-"6833 Harvest Oak Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.424284,38.42062445,03/24/2022,Invoice,1726,michelle dunn,,860,,4400,paid,michelle dunn,"6833 Harvest Oak Ct, Elk Grove, CA 95758"
-"6833 Harvest Oak Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.424284,38.42062445,03/24/2022,Payment,6416,michelle dunn,Check,870,,-4400,applied,michelle dunn,"6833 Harvest Oak Ct, Elk Grove, CA 95758"
-"6833 Harvest Oak Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.424284,38.42062445,03/25/2022,Payment,5147,michelle dunn,Check,916,,-200,applied,michelle dunn,"6833 Harvest Oak Ct, Elk Grove, CA 95758"
-"6833 Harvest Oak Ct, Elk Grove, California, 95758",Elk Grove,Sacramento County,California,-121.424284,38.42062445,03/25/2022,Invoice,1725,michelle dunn,,916,,200,paid,michelle dunn,"6833 Harvest Oak Ct, Elk Grove, CA 95758"
-"6911 Danberg Way, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4227712,38.40188243,03/28/2022,Invoice,1737,robert beem,,895,,4500,paid,robert beem,"6911 Danberg Way, Elk Grove, CA 95757"
-"6911 Danberg Way, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4227712,38.40188243,03/29/2022,Payment,4142,robert beem,Check,895,,-4500,applied,robert beem,"6911 Danberg Way, Elk Grove, CA 95757"
-"7181 Clearbrook Way, Sacramento, California, 95823",Sacramento,Sacramento County,California,-121.4192011,38.44195619,04/01/2022,Payment,1433,gulzar singh,Check,678,,-4500,applied,gulzar singh,"7181 Clearbrook Way, Sacramento, CA 95823"
-"7181 Clearbrook Way, Sacramento, California, 95823",Sacramento,Sacramento County,California,-121.4192011,38.44195619,04/01/2022,Invoice,1858,gulzar singh,,678,,4500,paid,gulzar singh,"7181 Clearbrook Way, Sacramento, CA 95823"
-"7417 Netherbury Ct, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.41659,38.39985221,04/01/2022,Payment,3025,Karyl Fiddyment,Check,895,,-10500,applied,Karyl Fiddyment,7417 Netherbury Ct CA
-"7417 Netherbury Ct, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.41659,38.39985221,04/01/2022,Invoice,1727,Karyl Fiddyment,,895,,10500,paid,Karyl Fiddyment,7417 Netherbury Ct CA
-"10517 Moledo Ct, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4104997,38.37517216,04/04/2022,Invoice,1976,Elizabeth walker,,195,,28000,paid,Elizabeth walker,"10517 Moledo Ct, Elk Grove, CA 95757"
-"10517 Moledo Ct, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4104997,38.37517216,04/05/2022,Payment,103,Elizabeth walker,Check,204,,-14000,applied,Elizabeth walker,"10517 Moledo Ct, Elk Grove, CA 95757"
-"10517 Moledo Ct, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4104997,38.37517216,04/05/2022,Payment,101,Elizabeth walker,Check,213,,-14000,applied,Elizabeth walker,"10517 Moledo Ct, Elk Grove, CA 95757"
-"10517 Moledo Ct, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4104997,38.37517216,04/08/2022,Invoice,1975,Elizabeth walker,,230,,500,paid,Elizabeth walker,"10517 Moledo Ct, Elk Grove, CA 95757"
-"10517 Moledo Ct, Elk Grove, California, 95757",Elk Grove,Sacramento County,California,-121.4104997,38.37517216,04/08/2022,Payment,499,Elizabeth walker,Check,230,,-500,applied,Elizabeth walker,"10517 Moledo Ct, Elk Grove, CA 95757"
-"8456 Trinidad Way, Roseville, California, 95747",Roseville,Placer County,California,-121.393609,38.79113793,04/12/2022,Payment,1512,wes deguzman,Check,224,,-7900,applied,wes deguzman,"8456 Trinidad Way, Roseville, CA 95747"
-"8456 Trinidad Way, Roseville, California, 95747",Roseville,Placer County,California,-121.393609,38.79113793,04/12/2022,Payment,1523,wes deguzman,Check,220,,-7900,applied,wes deguzman,"8456 Trinidad Way, Roseville, CA 95747"
-"8456 Trinidad Way, Roseville, California, 95747",Roseville,Placer County,California,-121.393609,38.79113793,04/15/2022,Invoice,1974,wes deguzman,,223,,15800,paid,wes deguzman,"8456 Trinidad Way, Roseville, CA 95747"
-"8456 Trinidad Way, Roseville, California, 95747",Roseville,Placer County,California,-121.393609,38.79113793,04/15/2022,Payment,1521,wes deguzman,Check,230,,-500,applied,wes deguzman,"8456 Trinidad Way, Roseville, CA 95747"
-"8456 Trinidad Way, Roseville, California, 95747",Roseville,Placer County,California,-121.393609,38.79113793,04/15/2022,Invoice,1973,wes deguzman,,230,,500,paid,wes deguzman,"8456 Trinidad Way, Roseville, CA 95747"
-"3021 American River Dr, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3923439,38.56774751,04/15/2022,Invoice,1916,Earl Warren,,377,,13500,paid,Earl Warren,"3021 American River Dr, Sacramento, CA 95864"
-"3021 American River Dr, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3923439,38.56774751,04/15/2022,Payment,2357,Earl Warren,Check,381,,-13500,applied,Earl Warren,"3021 American River Dr, Sacramento, CA 95864"
-"3021 American River Dr, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3923439,38.56774751,04/15/2022,Payment,2343,Earl Warren,Check,426,,-500,applied,Earl Warren,"3021 American River Dr, Sacramento, CA 95864"
-"3021 American River Dr, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3923439,38.56774751,04/15/2022,Invoice,1915,Earl Warren,,426,,500,paid,Earl Warren,"3021 American River Dr, Sacramento, CA 95864"
-"8479 Mediterranean Way, Sacramento, California, 95826",Sacramento,Sacramento County,California,-121.3921057,38.55962805,04/15/2022,Invoice,1857,kevin watkins,,574,thewaddys@comcast.net,5500,paid,kevin watkins,"8479 Mediterranean Way, Sacramento, CA 95826"
-"8479 Mediterranean Way, Sacramento, California, 95826",Sacramento,Sacramento County,California,-121.3921057,38.55962805,04/15/2022,Payment,261,kevin watkins,Check,584,,-5500,applied,kevin watkins,"8479 Mediterranean Way, Sacramento, CA 95826"
-"8479 Mediterranean Way, Sacramento, California, 95826",Sacramento,Sacramento County,California,-121.3921057,38.55962805,04/18/2022,Payment,255,kevin watkins,Check,692,,-400,applied,kevin watkins,"8479 Mediterranean Way, Sacramento, CA 95826"
-"8479 Mediterranean Way, Sacramento, California, 95826",Sacramento,Sacramento County,California,-121.3921057,38.55962805,04/19/2022,Invoice,1856,kevin watkins,,692,,400,paid,kevin watkins,"8479 Mediterranean Way, Sacramento, CA 95826"
-"4345 Solaire Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3869141,38.77095599,04/19/2022,Invoice,1618,Cory Rapoza,,1114,,0,paid,Cory Rapoza,4345 Solaire Dr CA
-"3405 Birchdale Way, Antelope, California, 95843",Antelope,Sacramento,California,-121.3845056,38.72696529,04/19/2022,Invoice,1914,Thresa Hellen,,370,,8000,paid,Thresa Hellen,"3405 Birchdale Way, Sacramento, CA 95843"
-"3405 Birchdale Way, Antelope, California, 95843",Antelope,Sacramento,California,-121.3845056,38.72696529,04/19/2022,Payment,3011,Thresa Hellen,Check,370,,-8000,applied,Thresa Hellen,"3405 Birchdale Way, Sacramento, CA 95843"
-"3405 Birchdale Way, Antelope, California, 95843",Antelope,Sacramento,California,-121.3845056,38.72696529,04/19/2022,Payment,3010,Thresa Hellen,Check,429,,-400,applied,Thresa Hellen,"3405 Birchdale Way, Sacramento, CA 95843"
-"3405 Birchdale Way, Antelope, California, 95843",Antelope,Sacramento,California,-121.3845056,38.72696529,04/20/2022,Invoice,1913,Thresa Hellen,,429,,400,paid,Thresa Hellen,"3405 Birchdale Way, Sacramento, CA 95843"
-"8636 Hume Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3838932,38.41212445,04/22/2022,Payment,,george appel,Credit Card,868,gappel@comcast.net,-8755,applied,george appel,"8636 Hume Ct, Elk Grove, CA 95624"
-"8636 Hume Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3838932,38.41212445,04/22/2022,Invoice,1733,george appel,,868,gappel@comcast.net,8755,paid,george appel,"8636 Hume Ct, Elk Grove, CA 95624"
-"3535 Fair Oaks Blvd, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3814475,38.57461447,04/22/2022,Invoice,1813,"ARDEN TOWN CENTER, LLC",,619,janet@gianuliasinc.com,58000,paid,"ARDEN TOWN CENTER, LLC","3535 Fair Oaks Blvd, Sacramento, CA"
-"3535 Fair Oaks Blvd, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3814475,38.57461447,04/25/2022,Payment,6781,"ARDEN TOWN CENTER, LLC",Check,638,jg@corecre.com,-14500,applied,"ARDEN TOWN CENTER, LLC","3535 Fair Oaks Blvd, Sacramento, CA"
-"3535 Fair Oaks Blvd, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3814475,38.57461447,04/25/2022,Payment,6780,"ARDEN TOWN CENTER, LLC",Check,659,jg@corecre.com,-14500,applied,"ARDEN TOWN CENTER, LLC","3535 Fair Oaks Blvd, Sacramento, CA"
-"3535 Fair Oaks Blvd, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3814475,38.57461447,04/25/2022,Payment,6779,"ARDEN TOWN CENTER, LLC",Check,664,jg@corecre.com,-14500,applied,"ARDEN TOWN CENTER, LLC","3535 Fair Oaks Blvd, Sacramento, CA"
-"3535 Fair Oaks Blvd, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3814475,38.57461447,04/25/2022,Payment,6768,"ARDEN TOWN CENTER, LLC",Check,667,jg@corecre.com,-14500,applied,"ARDEN TOWN CENTER, LLC","3535 Fair Oaks Blvd, Sacramento, CA"
-"8720 Seckel Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3793688,38.41279928,04/25/2022,Invoice,1815,cliff tejada,,692,elkgrovespring1@aol.com,14000,paid,cliff tejada,"8720 Seckel Ct, Elk Grove, CA 95624"
-"8720 Seckel Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3793688,38.41279928,04/25/2022,Payment,1346,cliff tejada,Check,694,elkgrovespring1@aol.com,-6000,applied,cliff tejada,"8720 Seckel Ct, Elk Grove, CA 95624"
-"8720 Seckel Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3793688,38.41279928,04/26/2022,Payment,1345,cliff tejada,Check,699,elkgrovespring1@aol.com,-3000,applied,cliff tejada,"8720 Seckel Ct, Elk Grove, CA 95624"
-"8720 Seckel Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3793688,38.41279928,04/26/2022,Payment,1343,cliff tejada,Check,702,,-5000,applied,cliff tejada,"8720 Seckel Ct, Elk Grove, CA 95624"
-"8720 Seckel Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3793688,38.41279928,04/27/2022,Invoice,1814,cliff tejada,,804,,1000,paid,cliff tejada,"8720 Seckel Ct, Elk Grove, CA 95624"
-"8720 Seckel Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3793688,38.41279928,04/27/2022,Payment,1430,cliff tejada,Check,804,elkgrovespring1@aol.com,-1000,applied,cliff tejada,"8720 Seckel Ct, Elk Grove, CA 95624"
-"2889 Bickleigh Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.376388,38.77893967,04/28/2022,Payment,3886,Loretta Shepard,Check,629,,-10800,applied,Loretta Shepard,"2889 Brickleigh Loop, Roseville, CA 95747"
-"2889 Bickleigh Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.376388,38.77893967,04/29/2022,Invoice,1844,Loretta Shepard,,629,,26800,paid,Loretta Shepard,"2889 Brickleigh Loop, Roseville, CA 95747"
-"2889 Bickleigh Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.376388,38.77893967,04/29/2022,Payment,419,Loretta Shepard,Check,636,,-8000,applied,Loretta Shepard,"2889 Brickleigh Loop, Roseville, CA 95747"
-"2889 Bickleigh Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.376388,38.77893967,04/29/2022,Payment,418,Loretta Shepard,Check,644,,-8000,applied,Loretta Shepard,"2889 Brickleigh Loop, Roseville, CA 95747"
-"2889 Bickleigh Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.376388,38.77893967,04/29/2022,Payment,411,Loretta Shepard,Check,708,,-500,applied,Loretta Shepard,"2889 Brickleigh Loop, Roseville, CA 95747"
-"2889 Bickleigh Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.376388,38.77893967,04/29/2022,Invoice,1843,Loretta Shepard,,708,,500,paid,Loretta Shepard,"2889 Brickleigh Loop, Roseville, CA 95747"
-"256 Lanton Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3724602,38.77597922,04/29/2022,Payment,3344,cindy lopes,Check,414,lopesclan@gmail.com,-2800,applied,cindy lopes,"256 Lanton Ct, Roseville, CA 95747"
-"256 Lanton Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3724602,38.77597922,05/03/2022,Payment,,cindy lopes,Cash,415,lopesclan@gmail.com,-2500,applied,cindy lopes,"256 Lanton Ct, Roseville, CA 95747"
-"256 Lanton Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3724602,38.77597922,05/04/2022,Payment,3342,cindy lopes,Check,433,lopesclan@gmail.com,-3000,applied,cindy lopes,"256 Lanton Ct, Roseville, CA 95747"
-"256 Lanton Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3724602,38.77597922,05/05/2022,Invoice,1895,cindy lopes,,433,lopesclan@gmail.com,23200,paid,cindy lopes,"256 Lanton Ct, Roseville, CA 95747"
-"256 Lanton Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3724602,38.77597922,05/05/2022,Payment,3341,cindy lopes,Check,433,lopesclan@gmail.com,-3000,applied,cindy lopes,"256 Lanton Ct, Roseville, CA 95747"
-"256 Lanton Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3724602,38.77597922,05/05/2022,Payment,3340,cindy lopes,Check,440,lopesclan@gmail.com,-6000,applied,cindy lopes,"256 Lanton Ct, Roseville, CA 95747"
-"256 Lanton Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3724602,38.77597922,05/06/2022,Payment,3339,cindy lopes,Check,442,lopesclan@gmail.com,-5900,applied,cindy lopes,"256 Lanton Ct, Roseville, CA 95747"
-"256 Lanton Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3724602,38.77597922,05/09/2022,Invoice,1894,cindy lopes,,479,lopesclan@gmail.com,500,paid,cindy lopes,"256 Lanton Ct, Roseville, CA 95747"
-"256 Lanton Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3724602,38.77597922,05/09/2022,Payment,3338,cindy lopes,Check,479,lopesclan@gmail.com,-500,applied,cindy lopes,"256 Lanton Ct, Roseville, CA 95747"
-"3913 Cresta Way, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3718078,38.59129685,05/09/2022,Payment,4804,bob woods,Check,282,,-500,applied,bob woods,"3913 Cresta Way, Sacramento, CA 95864"
-"3913 Cresta Way, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3718078,38.59129685,05/09/2022,Invoice,1965,bob woods,,282,,500,paid,bob woods,"3913 Cresta Way, Sacramento, CA 95864"
-"3913 Cresta Way, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3718078,38.59129685,05/11/2022,Payment,4805,bob woods,Check,286,,-4500,applied,bob woods,"3913 Cresta Way, Sacramento, CA 95864"
-"3913 Cresta Way, Sacramento, California, 95864",Sacramento,Sacramento County,California,-121.3718078,38.59129685,05/12/2022,Invoice,1963,bob woods,,286,,4500,paid,bob woods,"3913 Cresta Way, Sacramento, CA 95864"
-"3428 Braeburn St, Sacramento, California, 95821",Sacramento,Sacramento County,California,-121.3678932,38.62767347,05/13/2022,Invoice,1731,steve delrio,,869,,13000,paid,steve delrio,"3428 Braeburn St, Sacramento, CA 95821"
-"3428 Braeburn St, Sacramento, California, 95821",Sacramento,Sacramento County,California,-121.3678932,38.62767347,05/13/2022,Payment,271,steve delrio,Check,874,,-13000,applied,steve delrio,"3428 Braeburn St, Sacramento, CA 95821"
-"8997 Gainsboro Way, Sacramento, California, 95826",Sacramento,Sacramento County,California,-121.3668668,38.54053043,05/13/2022,Payment,2176,drew lambert,Check,468,,-11000,applied,drew lambert,"8997 Gainsboro Way, Sacramento, CA 95826"
-"8997 Gainsboro Way, Sacramento, California, 95826",Sacramento,Sacramento County,California,-121.3668668,38.54053043,05/17/2022,Invoice,1868,drew lambert,,469,,17000,paid,drew lambert,"8997 Gainsboro Way, Sacramento, CA 95826"
-"8997 Gainsboro Way, Sacramento, California, 95826",Sacramento,Sacramento County,California,-121.3668668,38.54053043,05/18/2022,Payment,117,drew lambert,Check,478,,-6000,applied,drew lambert,"8997 Gainsboro Way, Sacramento, CA 95826"
-"8997 Gainsboro Way, Sacramento, California, 95826",Sacramento,Sacramento County,California,-121.3668668,38.54053043,05/19/2022,Payment,2231,drew lambert,Check,658,,-600,applied,drew lambert,"8997 Gainsboro Way, Sacramento, CA 95826"
-"8997 Gainsboro Way, Sacramento, California, 95826",Sacramento,Sacramento County,California,-121.3668668,38.54053043,05/19/2022,Invoice,1867,drew lambert,,658,,600,paid,drew lambert,"8997 Gainsboro Way, Sacramento, CA 95826"
-"709 Falmouth Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3646133,38.79850793,05/20/2022,Payment,,katrina gonzales,Credit Card,289,,-7210,applied,katrina gonzales,"709 Falmouth Wy, Roseville, CA 95747"
-"709 Falmouth Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3646133,38.79850793,05/23/2022,Payment,,katrina gonzales,Credit Card,290,,-7210,applied,katrina gonzales,"709 Falmouth Wy, Roseville, CA 95747"
-"709 Falmouth Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3646133,38.79850793,05/23/2022,Payment,,katrina gonzales,Credit Card,294,,-7210,applied,katrina gonzales,"709 Falmouth Wy, Roseville, CA 95747"
-"709 Falmouth Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3646133,38.79850793,05/25/2022,Invoice,1941,katrina gonzales,,295,,21630,paid,katrina gonzales,"709 Falmouth Wy, Roseville, CA 95747"
-"709 Falmouth Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3646133,38.79850793,05/26/2022,Payment,124,katrina gonzales,Check,346,,-300,applied,katrina gonzales,"709 Falmouth Wy, Roseville, CA 95747"
-"709 Falmouth Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3646133,38.79850793,05/27/2022,Invoice,1940,katrina gonzales,,346,,300,paid,katrina gonzales,"709 Falmouth Wy, Roseville, CA 95747"
-"2296 Cumberland Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3633377,38.79522994,05/27/2022,Invoice,1739,leon  clark,,714,,11600,paid,leon  clark,"2296 Cumberland Lp, Roseville, CA 95747"
-"2296 Cumberland Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3633377,38.79522994,05/31/2022,Payment,5177,leon  clark,Check,720,,-5600,applied,leon  clark,"2296 Cumberland Lp, Roseville, CA 95747"
-"2296 Cumberland Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3633377,38.79522994,05/31/2022,Payment,5176,leon  clark,Check,722,,-6000,applied,leon  clark,"2296 Cumberland Lp, Roseville, CA 95747"
-"2296 Cumberland Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3633377,38.79522994,05/31/2022,Invoice,1738,leon  clark,,895,,200,paid,leon  clark,"2296 Cumberland Lp, Roseville, CA 95747"
-"2296 Cumberland Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3633377,38.79522994,05/31/2022,Payment,0040,leon  clark,Check,895,,-200,applied,leon  clark,"2296 Cumberland Lp, Roseville, CA 95747"
-"1169 Makeway St, Roseville, California, 95747",Roseville,Placer County,California,-121.3600953,38.79842671,06/02/2022,Payment,,mitchell mcsorley,,98,,-8000,applied,mitchell mcsorley,"1169 Makeway St, Roseville, CA 95747"
-"1169 Makeway St, Roseville, California, 95747",Roseville,Placer County,California,-121.3600953,38.79842671,06/02/2022,Payment,,mitchell mcsorley,,101,,-6180,applied,mitchell mcsorley,"1169 Makeway St, Roseville, CA 95747"
-"1169 Makeway St, Roseville, California, 95747",Roseville,Placer County,California,-121.3600953,38.79842671,06/02/2022,Invoice,1939,mitchell mcsorley,,98,,8000,paid,mitchell mcsorley,"1169 Makeway St, Roseville, CA 95747"
-"1169 Makeway St, Roseville, California, 95747",Roseville,Placer County,California,-121.3600953,38.79842671,06/03/2022,Payment,,mitchell mcsorley,,105,,-6180,applied,mitchell mcsorley,"1169 Makeway St, Roseville, CA 95747"
-"1169 Makeway St, Roseville, California, 95747",Roseville,Placer County,California,-121.3600953,38.79842671,06/07/2022,Invoice,1985,mitchell mcsorley,,105,,12360,paid,mitchell mcsorley,"1169 Makeway St, Roseville, CA 95747"
-"1169 Makeway St, Roseville, California, 95747",Roseville,Placer County,California,-121.3600953,38.79842671,06/07/2022,Payment,2467,mitchell mcsorley,Check,351,,-500,applied,mitchell mcsorley,"1169 Makeway St, Roseville, CA 95747"
-"1169 Makeway St, Roseville, California, 95747",Roseville,Placer County,California,-121.3600953,38.79842671,06/07/2022,Invoice,1938,mitchell mcsorley,,351,,500,paid,mitchell mcsorley,"1169 Makeway St, Roseville, CA 95747"
-"9250 Conant Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3585184,38.42155204,06/07/2022,Payment,6537,Gerald Tom,Check,400,,-400,applied,Gerald Tom,"9250 Conant Ct, Elk Grove, CA 95624"
-"9250 Conant Ct, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3585184,38.42155204,06/07/2022,Invoice,1921,Gerald Tom,,400,konaislandkid1@gmail.com,400,paid,Gerald Tom,"9250 Conant Ct, Elk Grove, CA 95624"
-"2076 Camino Real Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3550704,38.76570431,06/09/2022,Payment,,Andrew Swift,,142,,-4150,applied,Andrew Swift,2076 Camino Real Way CA
-"2076 Camino Real Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3550704,38.76570431,06/09/2022,Payment,,Andrew Swift,,146,,-500,applied,Andrew Swift,2076 Camino Real Way CA
-"2076 Camino Real Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3550704,38.76570431,06/10/2022,Payment,,Andrew Swift,,146,,-4150,applied,Andrew Swift,2076 Camino Real Way CA
-"2076 Camino Real Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3550704,38.76570431,06/13/2022,Invoice,1983,Andrew Swift,,161,,500,paid,Andrew Swift,2076 Camino Real Way CA
-"2076 Camino Real Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3550704,38.76570431,06/14/2022,Invoice,1979,Andrew Swift,,161,,8300,paid,Andrew Swift,2076 Camino Real Way CA
-"101 Briarthorne Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3538341,38.80348896,06/14/2022,Payment,,dan bergeron,QuickBooks Payments-Bank,696,,-16480,applied,dan bergeron,"101 Briarthorne Ct, Roseville, CA 95747"
-"101 Briarthorne Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3538341,38.80348896,06/14/2022,Invoice,1831,dan bergeron,,699,danielbergeron21@gmail.com,16480,paid,dan bergeron,"101 Briarthorne Ct, Roseville, CA 95747"
-"101 Briarthorne Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3538341,38.80348896,06/14/2022,Payment,646,dan bergeron,Check,765,,-500,applied,dan bergeron,"101 Briarthorne Ct, Roseville, CA 95747"
-"101 Briarthorne Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3538341,38.80348896,06/14/2022,Invoice,1830,dan bergeron,,765,,500,paid,dan bergeron,"101 Briarthorne Ct, Roseville, CA 95747"
-"3024 Lasso Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3499925,38.80294301,06/20/2022,Invoice,1846,Ben Amiwero,,601,infinitylegacy6@gmail.com,32500,paid,Ben Amiwero,"3024 Lasso Way, Roseville, CA 95747"
-"3024 Lasso Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3499925,38.80294301,06/24/2022,Payment,268,Ben Amiwero,Check,605,,-15000,applied,Ben Amiwero,"3024 Lasso Way, Roseville, CA 95747"
-"3024 Lasso Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3499925,38.80294301,06/28/2022,Payment,274,Ben Amiwero,Check,604,,-4500,applied,Ben Amiwero,"3024 Lasso Way, Roseville, CA 95747"
-"3024 Lasso Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3499925,38.80294301,06/28/2022,Payment,267,Ben Amiwero,Check,616,,-6500,applied,Ben Amiwero,"3024 Lasso Way, Roseville, CA 95747"
-"3024 Lasso Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3499925,38.80294301,06/29/2022,Payment,261,Ben Amiwero,Check,623,,-6500,applied,Ben Amiwero,"3024 Lasso Way, Roseville, CA 95747"
-"3024 Lasso Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3499925,38.80294301,06/29/2022,Invoice,1845,Ben Amiwero,,708,,500,paid,Ben Amiwero,"3024 Lasso Way, Roseville, CA 95747"
-"3024 Lasso Way, Roseville, California, 95747",Roseville,Placer County,California,-121.3499925,38.80294301,07/01/2022,Payment,321,Ben Amiwero,Check,708,,-500,applied,Ben Amiwero,"3024 Lasso Way, Roseville, CA 95747"
-"5116 Sugar Pine Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3418951,38.77336704,07/08/2022,Payment,1478,David Morandi,Check,744,,-9000,applied,David Morandi,"5116 Sugar Pine Loop, Roseville, CA 95747"
-"5116 Sugar Pine Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3418951,38.77336704,07/08/2022,Payment,1477,David Morandi,Check,744,,-8000,applied,David Morandi,"5116 Sugar Pine Loop, Roseville, CA 95747"
-"5116 Sugar Pine Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3418951,38.77336704,07/13/2022,Invoice,1797,David Morandi,,752,rsgalvinproperties@yahoo.com,25000,paid,David Morandi,"5116 Sugar Pine Loop, Roseville, CA 95747"
-"5116 Sugar Pine Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3418951,38.77336704,07/15/2022,Payment,1476,David Morandi,Check,762,,-8000,applied,David Morandi,"5116 Sugar Pine Loop, Roseville, CA 95747"
-"5116 Sugar Pine Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3418951,38.77336704,07/18/2022,Payment,2417,David Morandi,Check,818,,-500,applied,David Morandi,"5116 Sugar Pine Loop, Roseville, CA 95747"
-"5116 Sugar Pine Loop, Roseville, California, 95747",Roseville,Placer County,California,-121.3418951,38.77336704,07/18/2022,Invoice,1796,David Morandi,,818,,500,paid,David Morandi,"5116 Sugar Pine Loop, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,07/18/2022,Payment,2142,dan spenker,Check,479,,-8750,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,07/19/2022,Invoice,1866,dan spenker,,483,,64500,paid,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,07/20/2022,Payment,2140,dan spenker,Check,490,,-6250,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,07/20/2022,Payment,,dan spenker,Cash,496,,-2700,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,07/20/2022,Payment,,dan spenker,Cash,496,,-2400,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,07/22/2022,Payment,2137,dan spenker,Check,497,,-6500,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,07/28/2022,Payment,,dan spenker,Cash,496,,-900,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,07/28/2022,Payment,2136,dan spenker,Check,504,,-12500,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,07/29/2022,Payment,2134,dan spenker,Check,510,,-12500,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,08/03/2022,Payment,2133,dan spenker,Check,517,,-12000,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,08/03/2022,Payment,2106,dan spenker,Check,660,,-1000,applied,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"424 Sorrbento Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3405165,38.80401765,08/03/2022,Invoice,1865,dan spenker,,660,,1000,paid,dan spenker,"424 Sorrbento Ct, Roseville, CA 95747"
-"5489 Wildflower Cir, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3401766,38.6419572,08/03/2022,Payment,156,gary ferguson,Check,519,,-7000,applied,gary ferguson,"5489 Wildflower Cir, Carmichael, CA 95608"
-"5489 Wildflower Cir, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3401766,38.6419572,08/03/2022,Payment,,gary ferguson,Cash,520,,-1900,applied,gary ferguson,"5489 Wildflower Cir, Carmichael, CA 95608"
-"5489 Wildflower Cir, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3401766,38.6419572,08/03/2022,Invoice,1864,gary ferguson,,524,,48900,paid,gary ferguson,"5489 Wildflower Cir, Carmichael, CA 95608"
-"5489 Wildflower Cir, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3401766,38.6419572,08/03/2022,Payment,155,gary ferguson,Check,538,,-10000,applied,gary ferguson,"5489 Wildflower Cir, Carmichael, CA 95608"
-"5489 Wildflower Cir, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3401766,38.6419572,08/03/2022,Payment,154,gary ferguson,Check,545,,-10000,applied,gary ferguson,"5489 Wildflower Cir, Carmichael, CA 95608"
-"5489 Wildflower Cir, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3401766,38.6419572,08/03/2022,Payment,153,gary ferguson,Check,552,,-10000,applied,gary ferguson,"5489 Wildflower Cir, Carmichael, CA 95608"
-"5489 Wildflower Cir, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3401766,38.6419572,08/05/2022,Payment,152,gary ferguson,Check,555,,-10000,applied,gary ferguson,"5489 Wildflower Cir, Carmichael, CA 95608"
-"5489 Wildflower Cir, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3401766,38.6419572,08/05/2022,Payment,126,gary ferguson,Check,660,,-1000,applied,gary ferguson,"5489 Wildflower Cir, Carmichael, CA 95608"
-"5489 Wildflower Cir, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3401766,38.6419572,08/05/2022,Invoice,1863,gary ferguson,,660,,1000,paid,gary ferguson,"5489 Wildflower Cir, Carmichael, CA 95608"
-"9566 Moon River Way, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3401762,38.42312142,08/09/2022,Invoice,1971,kathy webb,,225,dspider4@surewest.net,6500,paid,kathy webb,"9566 Moon River Way, Elk Grove, CA 95624"
-"9566 Moon River Way, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3401762,38.42312142,08/10/2022,Payment,126,kathy webb,Check,232,,-6500,applied,kathy webb,"9566 Moon River Way, Elk Grove, CA 95624"
-"9566 Moon River Way, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3401762,38.42312142,08/10/2022,Payment,3162,kathy webb,Check,273,,-500,applied,kathy webb,"9566 Moon River Way, Elk Grove, CA 95624"
-"9566 Moon River Way, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.3401762,38.42312142,08/10/2022,Invoice,1970,kathy webb,,273,,500,paid,kathy webb,"9566 Moon River Way, Elk Grove, CA 95624"
-"1624 Atwell St, Roseville, California, 95747",Roseville,Placer County,California,-121.3397898,38.7555902,08/10/2022,Payment,,Stacie Gibbs,,115,,-9000,applied,Stacie Gibbs,1624 Atwell St CA
-"1624 Atwell St, Roseville, California, 95747",Roseville,Placer County,California,-121.3397898,38.7555902,08/10/2022,Invoice,1981,Stacie Gibbs,,132,,9000,paid,Stacie Gibbs,1624 Atwell St CA
-"1557 Steinbeck Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3396161,38.76996541,08/10/2022,Payment,8053,john schaeuffler,Check,279,,-9500,applied,john schaeuffler,"1557 Steinbeck Dr, Roseville, CA 95747"
-"1557 Steinbeck Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3396161,38.76996541,08/11/2022,Invoice,1948,john schaeuffler,,279,,9500,paid,john schaeuffler,"1557 Steinbeck Dr, Roseville, CA 95747"
-"1557 Steinbeck Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3396161,38.76996541,08/12/2022,Payment,1035,john schaeuffler,Check,332,,-500,applied,john schaeuffler,"1557 Steinbeck Dr, Roseville, CA 95747"
-"1557 Steinbeck Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3396161,38.76996541,08/12/2022,Invoice,1947,john schaeuffler,,332,,500,paid,john schaeuffler,"1557 Steinbeck Dr, Roseville, CA 95747"
-"1565 Steinbeck Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3396019,38.76925915,08/15/2022,Payment,6548,shelly alvarez,Check,274,,-10000,applied,shelly alvarez,"1565 Steinbeck Dr, Roseville, CA 95747"
-"1565 Steinbeck Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3396019,38.76925915,08/17/2022,Invoice,1946,shelly alvarez,,274,,10000,paid,shelly alvarez,"1565 Steinbeck Dr, Roseville, CA 95747"
-"1565 Steinbeck Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3396019,38.76925915,08/19/2022,Payment,6545,shelly alvarez,Check,332,,-500,applied,shelly alvarez,"1565 Steinbeck Dr, Roseville, CA 95747"
-"1565 Steinbeck Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3396019,38.76925915,08/19/2022,Invoice,1945,shelly alvarez,,332,,500,paid,shelly alvarez,"1565 Steinbeck Dr, Roseville, CA 95747"
-"1421 Calle las Casas, Roseville, California, 95747",Roseville,Placer County,California,-121.3371563,38.77572085,08/19/2022,Payment,3359,da  libby,Check,861,,-18000,applied,da  libby,"1421 Calle Las Casas, Roseville, CA 95747"
-"1421 Calle las Casas, Roseville, California, 95747",Roseville,Placer County,California,-121.3371563,38.77572085,08/22/2022,Invoice,1730,da  libby,,861,,18000,paid,da  libby,"1421 Calle Las Casas, Roseville, CA 95747"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,08/22/2022,Payment,497,lori harman,Check,673,,-8000,applied,lori harman,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,08/24/2022,Invoice,1822,lori harman,,674,,18000,paid,lori harman,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,08/25/2022,Payment,1575,ada fong,Check,678,,-4000,applied,ada fong,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,08/30/2022,Invoice,1820,ada fong,,674,af3854-moyong@yahoo.com,12000,paid,ada fong,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,08/30/2022,Payment,496,lori harman,Check,681,,-5000,applied,lori harman,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,08/30/2022,Payment,1572,ada fong,Check,681,,-4000,applied,ada fong,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,09/02/2022,Payment,495,lori harman,Check,687,,-5000,applied,lori harman,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,09/02/2022,Payment,1571,ada fong,Check,689,,-4000,applied,ada fong,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,09/02/2022,Payment,484,lori harman,Check,794,,-500,applied,lori harman,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,09/06/2022,Payment,1569,ada fong,Check,794,,-200,applied,ada fong,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,09/06/2022,Invoice,1821,lori harman,,794,,500,paid,lori harman,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"5519 Stately Oak Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3359459,38.64650484,09/07/2022,Invoice,1819,ada fong,,794,,200,paid,ada fong,"5519 Stately Oak Ln, Carmichael, CA 95608"
-"7383 Gibbons Ranch Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3311939,38.63471569,09/08/2022,Payment,1633,debbie vasquez,Check,780,,-5000,applied,debbie vasquez,"7383 Gibbons Ranch Ln, Carmichael, CA 95608"
-"7383 Gibbons Ranch Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3311939,38.63471569,09/08/2022,Invoice,1788,debbie vasquez,,784,,5000,paid,debbie vasquez,"7383 Gibbons Ranch Ln, Carmichael, CA 95608"
-"7383 Gibbons Ranch Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3311939,38.63471569,09/12/2022,Payment,1629,debbie vasquez,Check,843,,-400,applied,debbie vasquez,"7383 Gibbons Ranch Ln, Carmichael, CA 95608"
-"7383 Gibbons Ranch Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3311939,38.63471569,09/13/2022,Invoice,1787,debbie vasquez,,843,,400,paid,debbie vasquez,"7383 Gibbons Ranch Ln, Carmichael, CA 95608"
-"9892 Antone Ct, Sacramento, California, 95829",Sacramento,Sacramento County,California,-121.325693,38.45943899,09/14/2022,Invoice,1791,sueng obrien,,792,,16100,paid,sueng obrien,"9892 Antone Ct, Sacramento, CA 95829"
-"9892 Antone Ct, Sacramento, California, 95829",Sacramento,Sacramento County,California,-121.325693,38.45943899,09/14/2022,Payment,2175,sueng obrien,Check,798,,-6100,applied,sueng obrien,"9892 Antone Ct, Sacramento, CA 95829"
-"9892 Antone Ct, Sacramento, California, 95829",Sacramento,Sacramento County,California,-121.325693,38.45943899,09/16/2022,Payment,2174,sueng obrien,Check,799,,-10000,applied,sueng obrien,"9892 Antone Ct, Sacramento, CA 95829"
-"9892 Antone Ct, Sacramento, California, 95829",Sacramento,Sacramento County,California,-121.325693,38.45943899,09/20/2022,Payment,2170,sueng obrien,Check,814,,-500,applied,sueng obrien,"9892 Antone Ct, Sacramento, CA 95829"
-"9892 Antone Ct, Sacramento, California, 95829",Sacramento,Sacramento County,California,-121.325693,38.45943899,09/20/2022,Invoice,1790,sueng obrien,,814,,500,paid,sueng obrien,"9892 Antone Ct, Sacramento, CA 95829"
-"117 McMindes Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3230487,38.77084656,09/20/2022,Invoice,1835,bill nevius,,666,,5500,paid,bill nevius,"117 Mcmindes Ct, Roseville, CA 95747"
-"117 McMindes Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3230487,38.77084656,09/20/2022,Payment,4949,bill nevius,Check,668,,-5500,applied,bill nevius,"117 Mcmindes Ct, Roseville, CA 95747"
-"117 McMindes Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3230487,38.77084656,09/20/2022,Payment,4911,bill nevius,Check,763,,-500,applied,bill nevius,"117 Mcmindes Ct, Roseville, CA 95747"
-"117 McMindes Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3230487,38.77084656,09/20/2022,Invoice,1834,bill nevius,,763,,500,paid,bill nevius,"117 Mcmindes Ct, Roseville, CA 95747"
-"1429 Oak Grove Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3174433,38.77768443,09/21/2022,Invoice,1962,Judy Herbst,,244,,28000,paid,Judy Herbst,"1429 Oak Grove Dr, Roseville, CA 95747"
-"1429 Oak Grove Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3174433,38.77768443,09/21/2022,Payment,6052,Judy Herbst,Check,245,,-14000,applied,Judy Herbst,"1429 Oak Grove Dr, Roseville, CA 95747"
-"1429 Oak Grove Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3174433,38.77768443,09/21/2022,Payment,6051,Judy Herbst,Check,246,,-14000,applied,Judy Herbst,"1429 Oak Grove Dr, Roseville, CA 95747"
-"1429 Oak Grove Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3174433,38.77768443,09/21/2022,Payment,6047,Judy Herbst,Check,288,,-500,applied,Judy Herbst,"1429 Oak Grove Dr, Roseville, CA 95747"
-"1429 Oak Grove Dr, Roseville, California, 95747",Roseville,Placer County,California,-121.3174433,38.77768443,09/21/2022,Invoice,1961,Judy Herbst,,288,,500,paid,Judy Herbst,"1429 Oak Grove Dr, Roseville, CA 95747"
-"8284 Prairie Star Ct, Sacramento, California, 95829",Sacramento,Sacramento County,California,-121.3170741,38.45679806,09/22/2022,Invoice,1960,rodney gippetti,,232,,10000,paid,rodney gippetti,"8284 Prairie Star Ct, Sacramento, CA 95829"
-"8284 Prairie Star Ct, Sacramento, California, 95829",Sacramento,Sacramento County,California,-121.3170741,38.45679806,09/22/2022,Payment,1158,rodney gippetti,Check,255,,-10000,applied,rodney gippetti,"8284 Prairie Star Ct, Sacramento, CA 95829"
-"8284 Prairie Star Ct, Sacramento, California, 95829",Sacramento,Sacramento County,California,-121.3170741,38.45679806,09/23/2022,Payment,1154,rodney gippetti,Check,318,,-500,applied,rodney gippetti,"8284 Prairie Star Ct, Sacramento, CA 95829"
-"8284 Prairie Star Ct, Sacramento, California, 95829",Sacramento,Sacramento County,California,-121.3170741,38.45679806,09/26/2022,Invoice,1959,rodney gippetti,,318,,500,paid,rodney gippetti,"8284 Prairie Star Ct, Sacramento, CA 95829"
-"308 Beatty Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3086949,38.73947699,09/26/2022,Invoice,1743,jerry turley,,840,turleygirl@yahoo.com,4500,paid,jerry turley,"308 Beatty Ct, Roseville, CA 95747"
-"308 Beatty Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3086949,38.73947699,10/03/2022,Payment,2128,jerry turley,Check,850,,-4500,applied,jerry turley,"308 Beatty Ct, Roseville, CA 95747"
-"308 Beatty Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3086949,38.73947699,10/03/2022,Payment,2101,jerry turley,Check,895,,-300,applied,jerry turley,"308 Beatty Ct, Roseville, CA 95747"
-"308 Beatty Ct, Roseville, California, 95747",Roseville,Placer County,California,-121.3086949,38.73947699,10/05/2022,Invoice,1742,jerry turley,,895,,300,paid,jerry turley,"308 Beatty Ct, Roseville, CA 95747"
-"3469 Quail Haven Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3056819,38.62705254,10/06/2022,Payment,1187,David Manus,Check,904,,-5000,applied,David Manus,3469 Quail Haven Ln CA
-"3469 Quail Haven Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3056819,38.62705254,10/07/2022,Invoice,1715,David Manus,,912,,15000,paid,David Manus,3469 Quail Haven Ln CA
-"3469 Quail Haven Ln, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3056819,38.62705254,10/07/2022,Payment,1186,David Manus,Check,916,,-10000,applied,David Manus,3469 Quail Haven Ln CA
-"6850 Landis Ave, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3056379,38.6255803,10/12/2022,Payment,1362,Ed Weinman,Check,428,,-6350,applied,Ed Weinman,"6850 Landis Ave, Carmichael, CA 95608"
-"6850 Landis Ave, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3056379,38.6255803,10/14/2022,Payment,1361,Ed Weinman,Check,440,,-5800,applied,Ed Weinman,"6850 Landis Ave, Carmichael, CA 95608"
-"6850 Landis Ave, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3056379,38.6255803,10/14/2022,Payment,1360,Ed Weinman,Check,443,,-5800,applied,Ed Weinman,"6850 Landis Ave, Carmichael, CA 95608"
-"6850 Landis Ave, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3056379,38.6255803,10/19/2022,Invoice,1889,Ed Weinman,,434,,17950,paid,Ed Weinman,"6850 Landis Ave, Carmichael, CA 95608"
-"6850 Landis Ave, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3056379,38.6255803,10/19/2022,Payment,1358,Ed Weinman,Check,511,,-500,applied,Ed Weinman,"6850 Landis Ave, Carmichael, CA 95608"
-"6850 Landis Ave, Carmichael, California, 95608",Carmichael,Sacramento County,California,-121.3056379,38.6255803,10/19/2022,Invoice,1888,Ed Weinman,,511,,500,paid,Ed Weinman,"6850 Landis Ave, Carmichael, CA 95608"
-"7209 Calvin Dr, Citrus Heights, California, 95621",Citrus Heights,Sacramento County,California,-121.2994263,38.69882187,10/19/2022,Invoice,1956,marty hock,,308,,18000,paid,marty hock,"7209 Calvin Dr, Citrus Heights, CA 95621"
-"7209 Calvin Dr, Citrus Heights, California, 95621",Citrus Heights,Sacramento County,California,-121.2994263,38.69882187,10/21/2022,Payment,5066,marty hock,Check,309,,-9000,applied,marty hock,"7209 Calvin Dr, Citrus Heights, CA 95621"
-"7209 Calvin Dr, Citrus Heights, California, 95621",Citrus Heights,Sacramento County,California,-121.2994263,38.69882187,10/21/2022,Payment,5064,marty hock,Check,315,,-9000,applied,marty hock,"7209 Calvin Dr, Citrus Heights, CA 95621"
-"7209 Calvin Dr, Citrus Heights, California, 95621",Citrus Heights,Sacramento County,California,-121.2994263,38.69882187,10/26/2022,Payment,5055,marty hock,Check,328,,-400,applied,marty hock,"7209 Calvin Dr, Citrus Heights, CA 95621"
-"7209 Calvin Dr, Citrus Heights, California, 95621",Citrus Heights,Sacramento County,California,-121.2994263,38.69882187,10/27/2022,Invoice,1955,marty hock,,328,,400,paid,marty hock,"7209 Calvin Dr, Citrus Heights, CA 95621"
-"8603 Excelsior Rd, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.2975423,38.44531067,10/31/2022,Invoice,1795,chris rhodes,,723,,26500,paid,chris rhodes,"8603 Excelsior Rd, Elk Grove, CA 95624,"
-"8603 Excelsior Rd, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.2975423,38.44531067,10/31/2022,Payment,1138,chris rhodes,Check,724,,-10500,applied,chris rhodes,"8603 Excelsior Rd, Elk Grove, CA 95624,"
-"8603 Excelsior Rd, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.2975423,38.44531067,11/03/2022,Payment,1141,chris rhodes,Check,734,,-8000,applied,chris rhodes,"8603 Excelsior Rd, Elk Grove, CA 95624,"
-"8603 Excelsior Rd, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.2975423,38.44531067,11/03/2022,Payment,1136,chris rhodes,Check,741,,-8000,applied,chris rhodes,"8603 Excelsior Rd, Elk Grove, CA 95624,"
-"8603 Excelsior Rd, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.2975423,38.44531067,11/10/2022,Payment,1134,chris rhodes,Check,818,,-500,applied,chris rhodes,"8603 Excelsior Rd, Elk Grove, CA 95624,"
-"8603 Excelsior Rd, Elk Grove, California, 95624",Elk Grove,Sacramento County,California,-121.2975423,38.44531067,11/14/2022,Invoice,1794,chris rhodes,,818,,500,paid,chris rhodes,"8603 Excelsior Rd, Elk Grove, CA 95624,"
-"890 Norbury Way, Galt, California, 95632",Galt,Sacramento County,California,-121.2851862,38.27876405,11/15/2022,Payment,1079,debbie munn,Check,807,,-600,applied,debbie munn,"890 Norbury Way, Galt, CA 95632"
-"890 Norbury Way, Galt, California, 95632",Galt,Sacramento County,California,-121.2851862,38.27876405,11/16/2022,Invoice,1809,debbie munn,,807,,600,paid,debbie munn,"890 Norbury Way, Galt, CA 95632"
-"10960 Alandale Way, Rancho Cordova, California, 95670",Rancho Cordova,Sacramento County,California,-121.2785888,38.6056636,11/18/2022,Invoice,1839,lori parker,,657,loriparker45@live.com,13000,paid,lori parker,"10960 Alandale Way, Rancho Cordova, CA 95670"
-"10960 Alandale Way, Rancho Cordova, California, 95670",Rancho Cordova,Sacramento County,California,-121.2785888,38.6056636,11/18/2022,Payment,5273,lori parker,Check,659,,-7000,applied,lori parker,"10960 Alandale Way, Rancho Cordova, CA 95670"
-"10960 Alandale Way, Rancho Cordova, California, 95670",Rancho Cordova,Sacramento County,California,-121.2785888,38.6056636,11/22/2022,Payment,5271,lori parker,Check,659,,-6000,applied,lori parker,"10960 Alandale Way, Rancho Cordova, CA 95670"
-"10960 Alandale Way, Rancho Cordova, California, 95670",Rancho Cordova,Sacramento County,California,-121.2785888,38.6056636,11/28/2022,Payment,5227,lori parker,Check,758,,-500,applied,lori parker,"10960 Alandale Way, Rancho Cordova, CA 95670"
-"10960 Alandale Way, Rancho Cordova, California, 95670",Rancho Cordova,Sacramento County,California,-121.2785888,38.6056636,12/05/2022,Invoice,1838,lori parker,,758,loriparker45@live.com,500,paid,lori parker,"10960 Alandale Way, Rancho Cordova, CA 95670"
-"205 Riley Ct, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2778968,38.89023089,12/05/2022,Invoice,1808,stan dennis,,706,,40000,paid,stan dennis,"205 Riley ct, Lincoln, CA 95648"
-"205 Riley Ct, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2778968,38.89023089,12/07/2022,Payment,235,stan dennis,Check,708,,-30000,applied,stan dennis,"205 Riley ct, Lincoln, CA 95648"
-"205 Riley Ct, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2778968,38.89023089,12/08/2022,Payment,234,stan dennis,Check,722,,-10000,applied,stan dennis,"205 Riley ct, Lincoln, CA 95648"
-"205 Riley Ct, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2778968,38.89023089,12/08/2022,Payment,1993,stan dennis,Check,808,,-500,applied,stan dennis,"205 Riley ct, Lincoln, CA 95648"
-"205 Riley Ct, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2778968,38.89023089,12/09/2022,Invoice,1807,stan dennis,,808,,500,paid,stan dennis,"205 Riley ct, Lincoln, CA 95648"
-"2302 Spanish Trl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.275784,38.79922421,12/12/2022,Invoice,1891,Dan McCarthy,,440,,10500,paid,Dan McCarthy,"2302 Spanish Trail, Rocklin, CA 95765"
-"2302 Spanish Trl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.275784,38.79922421,12/15/2022,Payment,1326,Dan McCarthy,Check,447,,-5250,applied,Dan McCarthy,"2302 Spanish Trail, Rocklin, CA 95765"
-"2302 Spanish Trl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.275784,38.79922421,12/16/2022,Payment,1325,Dan McCarthy,Check,448,,-5250,applied,Dan McCarthy,"2302 Spanish Trail, Rocklin, CA 95765"
-"2302 Spanish Trl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.275784,38.79922421,12/16/2022,Payment,1324,Dan McCarthy,Check,511,,-500,applied,Dan McCarthy,"2302 Spanish Trail, Rocklin, CA 95765"
-"2302 Spanish Trl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.275784,38.79922421,12/21/2022,Invoice,1890,Dan McCarthy,,511,,500,paid,Dan McCarthy,"2302 Spanish Trail, Rocklin, CA 95765"
-"1117 Roseville Sq, Roseville, California, 95678",Roseville,Placer County,California,-121.274164,38.74605788,12/21/2022,Payment,8738,"RSS Center, LLC",Check,609,jg@corecre.com,-13750,applied,"RSS Center, LLC","1117 Roseville Square, Roseville, CA 95678"
-"1117 Roseville Sq, Roseville, California, 95678",Roseville,Placer County,California,-121.274164,38.74605788,12/23/2022,Payment,8734,"RSS Center, LLC",Check,616,jg@corecre.com,-13750,applied,"RSS Center, LLC","1117 Roseville Square, Roseville, CA 95678"
-"1117 Roseville Sq, Roseville, California, 95678",Roseville,Placer County,California,-121.274164,38.74605788,12/23/2022,Invoice,1818,"RSS Center, LLC",,619,janet@gianuliasinc.com,55000,paid,"RSS Center, LLC","1117 Roseville Square, Roseville, CA 95678"
-"1117 Roseville Sq, Roseville, California, 95678",Roseville,Placer County,California,-121.274164,38.74605788,12/23/2022,Payment,8733,"RSS Center, LLC",Check,624,jg@corecre.com,-13750,applied,"RSS Center, LLC","1117 Roseville Square, Roseville, CA 95678"
-"1117 Roseville Sq, Roseville, California, 95678",Roseville,Placer County,California,-121.274164,38.74605788,12/29/2022,Payment,8729,"RSS Center, LLC",Check,636,jg@corecre.com,-13750,applied,"RSS Center, LLC","1117 Roseville Square, Roseville, CA 95678"
-"1117 Roseville Sq, Roseville, California, 95678",Roseville,Placer County,California,-121.274164,38.74605788,12/30/2022,Payment,2443,"RSS Center, LLC",Check,804,jg@corecre.com,-7000,applied,"RSS Center, LLC","1117 Roseville Square, Roseville, CA 95678"
-"1117 Roseville Sq, Roseville, California, 95678",Roseville,Placer County,California,-121.274164,38.74605788,12/30/2022,Invoice,1817,"RSS Center, LLC",,800,jg@corecre.com,7000,paid,"RSS Center, LLC","1117 Roseville Square, Roseville, CA 95678"
-"910 Merino Ct, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2689399,38.87045559,12/30/2022,Payment,1896,hank steefel,Check,791,,-8500,applied,hank steefel,"910 Merino Ct, Lincoln, CA 95648"
-"910 Merino Ct, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2689399,38.87045559,12/30/2022,Invoice,1778,hank steefel,,797,,8500,paid,hank steefel,"910 Merino Ct, Lincoln, CA 95648"
-"910 Merino Ct, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2689399,38.87045559,01/03/2023,Invoice,1777,hank steefel,,853,,200,paid,hank steefel,"910 Merino Ct, Lincoln, CA 95648"
-"910 Merino Ct, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2689399,38.87045559,01/03/2023,Payment,1892,hank steefel,Check,853,,-200,applied,hank steefel,"910 Merino Ct, Lincoln, CA 95648"
-"2246 Ranch View Dr, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2681754,38.83619251,01/03/2023,Payment,0501,pamela bodenham,Check,897,,-5500,applied,pamela bodenham,"2246 Ranch View Dr, Rocklin, CA 95765"
-"2246 Ranch View Dr, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2681754,38.83619251,01/04/2023,Invoice,1735,pamela bodenham,,897,,5500,paid,pamela bodenham,"2246 Ranch View Dr, Rocklin, CA 95765"
-"3289 Oselot Way, Rancho Cordova, California, 95670",Rancho Cordova,Sacramento County,California,-121.2667866,38.58310278,01/04/2023,Payment,114,Daniel Hernadez,Check,706,,-200,applied,Daniel Hernadez,"3289 Oselot Way, Rancho Cordova, CA 95670"
-"3289 Oselot Way, Rancho Cordova, California, 95670",Rancho Cordova,Sacramento County,California,-121.2667866,38.58310278,01/04/2023,Invoice,1847,Daniel Hernadez,,706,,200,paid,Daniel Hernadez,"3289 Oselot Way, Rancho Cordova, CA 95670"
-"601 Tomies Oakwood Pl, Lincoln, California, 95648",Lincoln,Placer,California,-121.2646223,38.84603554,01/06/2023,Payment,4682,Rocky Roquet,,175,,-300,applied,Rocky Roquet,601 Tomies Oakwood Place
-"601 Tomies Oakwood Pl, Lincoln, California, 95648",Lincoln,Placer,California,-121.2646223,38.84603554,01/13/2023,Invoice,1980,Rocky Roquet,,175,,300,paid,Rocky Roquet,601 Tomies Oakwood Place
-"4906 Bradford Pl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2583477,38.82660051,01/13/2023,Payment,3376,jim podja,Check,798,,-4500,applied,jim podja,"4906 Bradford Pl, Rocklin, CA 95765"
-"4906 Bradford Pl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2583477,38.82660051,01/17/2023,Invoice,1786,jim podja,,798,,4500,paid,jim podja,"4906 Bradford Pl, Rocklin, CA 95765"
-"4906 Bradford Pl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2583477,38.82660051,01/19/2023,Payment,,jim podja,Credit Card,843,,-300,applied,jim podja,"4906 Bradford Pl, Rocklin, CA 95765"
-"4906 Bradford Pl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2583477,38.82660051,01/20/2023,Invoice,1785,jim podja,,843,,300,paid,jim podja,"4906 Bradford Pl, Rocklin, CA 95765"
-"4904 Bradford Pl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2581825,38.82676739,01/24/2023,Payment,,mike gilsdorf,Cash,850,,-5500,applied,mike gilsdorf,"4904 Bradford Pl, Rocklin, CA 95765"
-"4904 Bradford Pl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2581825,38.82676739,01/24/2023,Invoice,1781,mike gilsdorf,,850,,5500,paid,mike gilsdorf,"4904 Bradford Pl, Rocklin, CA 95765"
-"4904 Bradford Pl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2581825,38.82676739,01/30/2023,Payment,,mike gilsdorf,Cash,860,,-8000,applied,mike gilsdorf,"4904 Bradford Pl, Rocklin, CA 95765"
-"4904 Bradford Pl, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2581825,38.82676739,01/30/2023,Invoice,1776,mike gilsdorf,,860,,8000,paid,mike gilsdorf,"4904 Bradford Pl, Rocklin, CA 95765"
-"3198 Anastasia Way, Lincoln, California, 95648",Lincoln,Placer County,California,-121.250767,38.84579402,02/03/2023,Invoice,1862,lana shilo,,559,lanashilo7@gmail.com,11000,paid,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648"
-"3198 Anastasia Way, Lincoln, California, 95648",Lincoln,Placer County,California,-121.250767,38.84579402,02/07/2023,Payment,,lana shilo,Cash,560,,-5000,applied,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648"
-"3198 Anastasia Way, Lincoln, California, 95648",Lincoln,Placer County,California,-121.250767,38.84579402,02/08/2023,Payment,1103,lana shilo,Check,573,,-6000,applied,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648"
-"3198 Anastasia Way, Lincoln, California, 95648",Lincoln,Placer County,California,-121.250767,38.84579402,02/09/2023,Payment,1155,lana shilo,Check,660,,-500,applied,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648"
-"3198 Anastasia Way, Lincoln, California, 95648",Lincoln,Placer County,California,-121.250767,38.84579402,02/10/2023,Invoice,1861,lana shilo,,660,,500,paid,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648"
-"3198 Anastasia Way, Lincoln, California, 95648",Lincoln,Placer County,California,-121.250767,38.84579402,02/16/2023,Payment,1101,lana shilo,Check,813,,-9500,applied,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648"
-"3198 Anastasia Way, Lincoln, California, 95648",Lincoln,Placer County,California,-121.250767,38.84579402,02/16/2023,Invoice,1764,lana shilo,,811,,9500,paid,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648"
-"3198 Anastasia Way, Lincoln, California, 95648",Lincoln,Placer County,California,-121.250767,38.84579402,02/16/2023,Payment,1043,lana shilo,Check,864,,-500,applied,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648"
-"3198 Anastasia Way, Lincoln, California, 95648",Lincoln,Placer County,California,-121.250767,38.84579402,02/16/2023,Invoice,1763,lana shilo,,864,,500,paid,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648"
-"5314 Thunder Ridge Cir, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2496218,38.80945445,02/17/2023,Payment,1158,dave coleman,Check,821,,-8000,applied,dave coleman,"5314 Thunder Ridge Cir, Rocklin, CA 95765"
-"5314 Thunder Ridge Cir, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2496218,38.80945445,02/17/2023,Invoice,1761,dave coleman,,821,,8000,paid,dave coleman,"5314 Thunder Ridge Cir, Rocklin, CA 95765"
-"5314 Thunder Ridge Cir, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2496218,38.80945445,02/17/2023,Invoice,1760,dave coleman,,877,,200,paid,dave coleman,"5314 Thunder Ridge Cir, Rocklin, CA 95765"
-"5314 Thunder Ridge Cir, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2496218,38.80945445,02/17/2023,Payment,1131,dave coleman,Check,877,,-200,applied,dave coleman,"5314 Thunder Ridge Cir, Rocklin, CA 95765"
-"812 Fallen Log Ct, Rocklin, California, 95765",Rocklin,Placer County,California,-121.249074,38.83834699,02/21/2023,Payment,447,sharon skootsky,Check,566,,-4500,applied,sharon skootsky,"812 Fallen Log Ct, Rocklin, CA 95765"
-"812 Fallen Log Ct, Rocklin, California, 95765",Rocklin,Placer County,California,-121.249074,38.83834699,02/23/2023,Invoice,1878,sharon skootsky,,566,,4500,paid,sharon skootsky,"812 Fallen Log Ct, Rocklin, CA 95765"
-"812 Fallen Log Ct, Rocklin, California, 95765",Rocklin,Placer County,California,-121.249074,38.83834699,02/23/2023,Payment,4016,sharon skootsky,Check,631,,-300,applied,sharon skootsky,"812 Fallen Log Ct, Rocklin, CA 95765"
-"812 Fallen Log Ct, Rocklin, California, 95765",Rocklin,Placer County,California,-121.249074,38.83834699,02/23/2023,Invoice,1877,sharon skootsky,,631,,300,paid,sharon skootsky,"812 Fallen Log Ct, Rocklin, CA 95765"
-"2127 Van Ness Dr, Roseville, California, 95661",Roseville,Placer County,California,-121.2475464,38.73076979,03/02/2023,Invoice,1775,tim healea,,846,healea@sbcglobal.net,13800,paid,tim healea,"2127 Van Ness Dr, Roseville, CA 95661"
-"2127 Van Ness Dr, Roseville, California, 95661",Roseville,Placer County,California,-121.2475464,38.73076979,03/02/2023,Payment,,tim healea,Cash,850,healea@sbcglobal.net,-3500,applied,tim healea,"2127 Van Ness Dr, Roseville, CA 95661"
-"2127 Van Ness Dr, Roseville, California, 95661",Roseville,Placer County,California,-121.2475464,38.73076979,03/02/2023,Payment,,tim healea,Credit Card,853,healea@sbcglobal.net,-5150,applied,tim healea,"2127 Van Ness Dr, Roseville, CA 95661"
-"2127 Van Ness Dr, Roseville, California, 95661",Roseville,Placer County,California,-121.2475464,38.73076979,03/02/2023,Payment,,tim healea,Credit Card,860,healea@sbcglobal.net,-5150,applied,tim healea,"2127 Van Ness Dr, Roseville, CA 95661"
-"3013 Fox Hill Dr, Rocklin, California, 95765",Rocklin,Placer County,California,-121.2436819,38.81315262,03/02/2023,Invoice,1633,Donny Kennedy,,922,,0,paid,Donny Kennedy,3013 Fox Hill Dr CA
-"2105 Bald Eagle Ct, Gold River, California, 95670",Gold River,Sacramento County,California,-121.235948,38.62621955,03/03/2023,Invoice,1768,sue mckittrick,,815,,4500,paid,sue mckittrick,"2105 Bald Eagle Ct, Gold River, CA 95670"
-"2105 Bald Eagle Ct, Gold River, California, 95670",Gold River,Sacramento County,California,-121.235948,38.62621955,03/03/2023,Payment,204,sue mckittrick,Check,840,,-4500,applied,sue mckittrick,"2105 Bald Eagle Ct, Gold River, CA 95670"
-"2105 Bald Eagle Ct, Gold River, California, 95670",Gold River,Sacramento County,California,-121.235948,38.62621955,03/03/2023,Payment,619,sue mckittrick,Check,864,,-300,applied,sue mckittrick,"2105 Bald Eagle Ct, Gold River, CA 95670"
-"2105 Bald Eagle Ct, Gold River, California, 95670",Gold River,Sacramento County,California,-121.235948,38.62621955,03/07/2023,Invoice,1767,sue mckittrick,,864,,300,paid,sue mckittrick,"2105 Bald Eagle Ct, Gold River, CA 95670"
-"11832 Old Eureka Way, Gold River, California, 95670",Gold River,Sacramento County,California,-121.2350439,38.62896504,03/08/2023,Invoice,1741,greg nicholson,,848,,6000,paid,greg nicholson,"11832 Old Eureka Way, Gold River, CA 95670"
-"11832 Old Eureka Way, Gold River, California, 95670",Gold River,Sacramento County,California,-121.2350439,38.62896504,03/08/2023,Payment,1188,greg nicholson,Check,855,,-6000,applied,greg nicholson,"11832 Old Eureka Way, Gold River, CA 95670"
-"11832 Old Eureka Way, Gold River, California, 95670",Gold River,Sacramento County,California,-121.2350439,38.62896504,03/09/2023,Payment,1088,greg nicholson,Check,892,,-600,applied,greg nicholson,"11832 Old Eureka Way, Gold River, CA 95670"
-"11832 Old Eureka Way, Gold River, California, 95670",Gold River,Sacramento County,California,-121.2350439,38.62896504,03/09/2023,Invoice,1740,greg nicholson,,892,,600,paid,greg nicholson,"11832 Old Eureka Way, Gold River, CA 95670"
-"1641 Bella Cir, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2336891,38.86442251,03/09/2023,Payment,471,mark sikich,Check,877,,-500,applied,mark sikich,"1641 Bella Cir, Lincoln, CA 95648"
-"1641 Bella Cir, Lincoln, California, 95648",Lincoln,Placer County,California,-121.2336891,38.86442251,03/10/2023,Invoice,1762,mark sikich,,877,,500,paid,mark sikich,"1641 Bella Cir, Lincoln, CA 95648"
-"8763 Beechcrest Ct, Orangevale, California, 95662",Orangevale,Sacramento County,California,-121.2319864,38.68720745,03/13/2023,Payment,,Ramon mata,,890,,-9800,applied,Ramon mata,8763 Beechcrest Ct CA
-"8763 Beechcrest Ct, Orangevale, California, 95662",Orangevale,Sacramento County,California,-121.2319864,38.68720745,03/16/2023,Invoice,1722,Ramon mata,,873,,9800,paid,Ramon mata,8763 Beechcrest Ct CA
-"5206 Levison Way, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2309834,38.78812619,03/16/2023,Invoice,1885,Nancy Pearson,,449,,12600,paid,Nancy Pearson,"5206 Levison Way, Rocklin, CA 95677"
-"5206 Levison Way, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2309834,38.78812619,03/17/2023,Payment,4021,Nancy Pearson,Check,451,,-2500,applied,Nancy Pearson,"5206 Levison Way, Rocklin, CA 95677"
-"5206 Levison Way, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2309834,38.78812619,03/17/2023,Payment,4020,Nancy Pearson,Check,455,,-3500,applied,Nancy Pearson,"5206 Levison Way, Rocklin, CA 95677"
-"5206 Levison Way, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2309834,38.78812619,03/17/2023,Payment,1254,Nancy Pearson,Check,455,,-2000,applied,Nancy Pearson,"5206 Levison Way, Rocklin, CA 95677"
-"5206 Levison Way, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2309834,38.78812619,03/17/2023,Payment,4019,Nancy Pearson,Check,457,,-4600,applied,Nancy Pearson,"5206 Levison Way, Rocklin, CA 95677"
-"5206 Levison Way, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2309834,38.78812619,03/17/2023,Invoice,1884,Nancy Pearson,,554,,200,paid,Nancy Pearson,"5206 Levison Way, Rocklin, CA 95677"
-"5206 Levison Way, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2309834,38.78812619,03/20/2023,Payment,4016,Nancy Pearson,Check,554,,-200,applied,Nancy Pearson,"5206 Levison Way, Rocklin, CA 95677"
-"4101 Autumn Crossing Ln, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2308471,38.78766745,03/20/2023,Payment,,Carrie Root,,905,,-10000,applied,Carrie Root,4101 Autumn Crossing Ln
-"4101 Autumn Crossing Ln, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2308471,38.78766745,03/20/2023,Invoice,1671,Carrie Root,,905,,10000,paid,Carrie Root,4101 Autumn Crossing Ln
-"117 Talgarth Ct, Roseville, California, 95661",Roseville,Placer County,California,-121.2289992,38.76079922,03/20/2023,Payment,411,eric lipsky,Check,681,,-6000,applied,eric lipsky,"117 Talgarth Ct, Roseville, CA 95661"
-"117 Talgarth Ct, Roseville, California, 95661",Roseville,Placer County,California,-121.2289992,38.76079922,03/21/2023,Invoice,1833,eric lipsky,,686,,18000,paid,eric lipsky,"117 Talgarth Ct, Roseville, CA 95661"
-"117 Talgarth Ct, Roseville, California, 95661",Roseville,Placer County,California,-121.2289992,38.76079922,03/24/2023,Payment,410,eric lipsky,Check,689,,-6000,applied,eric lipsky,"117 Talgarth Ct, Roseville, CA 95661"
-"117 Talgarth Ct, Roseville, California, 95661",Roseville,Placer County,California,-121.2289992,38.76079922,03/24/2023,Payment,409,eric lipsky,Check,700,,-6000,applied,eric lipsky,"117 Talgarth Ct, Roseville, CA 95661"
-"117 Talgarth Ct, Roseville, California, 95661",Roseville,Placer County,California,-121.2289992,38.76079922,03/24/2023,Invoice,1832,eric lipsky,,765,,500,paid,eric lipsky,"117 Talgarth Ct, Roseville, CA 95661"
-"117 Talgarth Ct, Roseville, California, 95661",Roseville,Placer County,California,-121.2289992,38.76079922,03/27/2023,Payment,611,eric lipsky,Check,765,,-500,applied,eric lipsky,"117 Talgarth Ct, Roseville, CA 95661"
-"4780 Cedar Landing Way, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.2281447,38.53393127,03/27/2023,Payment,5879,larry hammel,Check,828,,-4500,applied,larry hammel,"4780 Cedar Landing Way, Rancho Cordova, CA 95742"
-"4780 Cedar Landing Way, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.2281447,38.53393127,03/28/2023,Invoice,1747,larry hammel,,829,,4500,paid,larry hammel,"4780 Cedar Landing Way, Rancho Cordova, CA 95742"
-"4780 Cedar Landing Way, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.2281447,38.53393127,03/30/2023,Payment,5877,larry hammel,Check,885,,-500,applied,larry hammel,"4780 Cedar Landing Way, Rancho Cordova, CA 95742"
-"4780 Cedar Landing Way, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.2281447,38.53393127,03/31/2023,Invoice,1748,larry hammel,,885,,500,paid,larry hammel,"4780 Cedar Landing Way, Rancho Cordova, CA 95742"
-"2877 Carradale Dr, Roseville, California, 95661",Roseville,Placer County,California,-121.2253279,38.76985398,03/31/2023,Invoice,1641,Andrey Zag,,1015,,0,paid,Andrey Zag,2877 Carradale Dr CA
-"2721 Manzanita Dr, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2202489,38.79366788,04/04/2023,Invoice,1784,dave diller,,839,,7500,paid,dave diller,"2721 Manzanita Dr, Rocklin, CA 95677"
-"2721 Manzanita Dr, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2202489,38.79366788,04/04/2023,Payment,869,dave diller,Check,841,,-7500,applied,dave diller,"2721 Manzanita Dr, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/04/2023,Invoice,1880,torrie reece,,475,torrie.garcia44@gmail.com,10500,paid,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/05/2023,Payment,,torrie reece,Cash,497,torrie.garcia44@gmail.com,-3500,applied,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/07/2023,Payment,137,torrie reece,Check,497,torrie.garcia44@gmail.com,-2000,applied,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/07/2023,Payment,136,torrie reece,Check,504,torrie.garcia44@gmail.com,-5000,applied,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/11/2023,Payment,127,torrie reece,Check,581,torrie.garcia44@gmail.com,-500,applied,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/13/2023,Invoice,1879,torrie reece,,581,torrie.garcia44@gmail.com,500,paid,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/13/2023,Invoice,1804,torrie reece,,759,torrie.garcia44@gmail.com,11615,paid,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/14/2023,Payment,,torrie reece,QuickBooks Payments-Bank,765,,-11615,applied,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/14/2023,Payment,219,torrie reece,Check,811,,-200,applied,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4715 Robin Ct, Rocklin, California, 95677",Rocklin,Placer County,California,-121.2168985,38.78340508,04/17/2023,Invoice,1803,torrie reece,,811,,200,paid,torrie reece,"4715 Robin Ct, Rocklin, CA 95677"
-"4814 Hangar Ct, Fair Oaks, California, 95628",Fair Oaks,Sacramento County,California,-121.2166722,38.65470553,04/17/2023,Invoice,1958,paul millard,,237,,16500,paid,paul millard,"4814 Hangar Ct, Fair Oaks, CA 95628"
-"4814 Hangar Ct, Fair Oaks, California, 95628",Fair Oaks,Sacramento County,California,-121.2166722,38.65470553,04/18/2023,Payment,1179,paul millard,Check,260,,-6000,applied,paul millard,"4814 Hangar Ct, Fair Oaks, CA 95628"
-"4814 Hangar Ct, Fair Oaks, California, 95628",Fair Oaks,Sacramento County,California,-121.2166722,38.65470553,04/19/2023,Payment,1175,paul millard,Check,261,,-10500,applied,paul millard,"4814 Hangar Ct, Fair Oaks, CA 95628"
-"4814 Hangar Ct, Fair Oaks, California, 95628",Fair Oaks,Sacramento County,California,-121.2166722,38.65470553,04/20/2023,Payment,1139,paul millard,Check,328,,-500,applied,paul millard,"4814 Hangar Ct, Fair Oaks, CA 95628"
-"4814 Hangar Ct, Fair Oaks, California, 95628",Fair Oaks,Sacramento County,California,-121.2166722,38.65470553,04/20/2023,Invoice,1957,paul millard,,328,,500,paid,paul millard,"4814 Hangar Ct, Fair Oaks, CA 95628"
-"8315 Cedar Falls Ct, Granite Bay, California, 95746",Granite Bay,Placer County,California,-121.2071032,38.74860933,04/21/2023,Invoice,1893,bill neal,,384,,44500,paid,bill neal,"8315 Cedar Falls Ct, Granite Bay, CA 95746"
-"8315 Cedar Falls Ct, Granite Bay, California, 95746",Granite Bay,Placer County,California,-121.2071032,38.74860933,04/21/2023,Payment,4489,bill neal,Check,387,,-15000,applied,bill neal,"8315 Cedar Falls Ct, Granite Bay, CA 95746"
-"8315 Cedar Falls Ct, Granite Bay, California, 95746",Granite Bay,Placer County,California,-121.2071032,38.74860933,04/25/2023,Payment,4485,bill neal,Check,398,,-15000,applied,bill neal,"8315 Cedar Falls Ct, Granite Bay, CA 95746"
-"8315 Cedar Falls Ct, Granite Bay, California, 95746",Granite Bay,Placer County,California,-121.2071032,38.74860933,04/26/2023,Payment,4484,bill neal,Check,405,,-14500,applied,bill neal,"8315 Cedar Falls Ct, Granite Bay, CA 95746"
-"8315 Cedar Falls Ct, Granite Bay, California, 95746",Granite Bay,Placer County,California,-121.2071032,38.74860933,04/28/2023,Payment,4466,bill neal,Check,497,,-500,applied,bill neal,"8315 Cedar Falls Ct, Granite Bay, CA 95746"
-"8315 Cedar Falls Ct, Granite Bay, California, 95746",Granite Bay,Placer County,California,-121.2071032,38.74860933,04/28/2023,Invoice,1892,bill neal,,497,,500,paid,bill neal,"8315 Cedar Falls Ct, Granite Bay, CA 95746"
-"7325 Main Ave, Orangevale, California, 95662",Orangevale,Sacramento County,California,-121.2016223,38.69901847,04/28/2023,Invoice,1899,Lloyd Pochop,,426,lepochop@att.net,6500,paid,Lloyd Pochop,"7325 Main Ave, Orangevale, CA 95662"
-"7325 Main Ave, Orangevale, California, 95662",Orangevale,Sacramento County,California,-121.2016223,38.69901847,05/03/2023,Payment,1701,Lloyd Pochop,Check,428,lepochop@att.net,-6500,applied,Lloyd Pochop,"7325 Main Ave, Orangevale, CA 95662"
-"7325 Main Ave, Orangevale, California, 95662",Orangevale,Sacramento County,California,-121.2016223,38.69901847,05/03/2023,Payment,1671,Lloyd Pochop,Check,491,lepochop@att.net,-500,applied,Lloyd Pochop,"7325 Main Ave, Orangevale, CA 95662"
-"7325 Main Ave, Orangevale, California, 95662",Orangevale,Sacramento County,California,-121.2016223,38.69901847,05/03/2023,Invoice,1898,Lloyd Pochop,,491,lepochop@att.net,500,paid,Lloyd Pochop,"7325 Main Ave, Orangevale, CA 95662"
-"5866 Tree Swallow Cir, Rocklin, California, 95677",Rocklin,Placer County,California,-121.1963716,38.79867285,05/03/2023,Payment,767,ken taylor,Check,426,,-480,applied,ken taylor,"5866 Tree Swallow Cir, Rocklin, CA 95677"
-"5866 Tree Swallow Cir, Rocklin, California, 95677",Rocklin,Placer County,California,-121.1963716,38.79867285,05/04/2023,Invoice,1912,ken taylor,,426,,480,paid,ken taylor,"5866 Tree Swallow Cir, Rocklin, CA 95677"
-"5866 Tree Swallow Cir, Rocklin, California, 95677",Rocklin,Placer County,California,-121.1963716,38.79867285,05/05/2023,Invoice,1874,ken taylor,,489,,6500,paid,ken taylor,"5866 Tree Swallow Cir, Rocklin, CA 95677"
-"5866 Tree Swallow Cir, Rocklin, California, 95677",Rocklin,Placer County,California,-121.1963716,38.79867285,05/05/2023,Payment,3250,ken taylor,Check,504,,-3000,applied,ken taylor,"5866 Tree Swallow Cir, Rocklin, CA 95677"
-"5866 Tree Swallow Cir, Rocklin, California, 95677",Rocklin,Placer County,California,-121.1963716,38.79867285,05/05/2023,Payment,8005,ken taylor,Check,506,,-3500,applied,ken taylor,"5866 Tree Swallow Cir, Rocklin, CA 95677"
-"5866 Tree Swallow Cir, Rocklin, California, 95677",Rocklin,Placer County,California,-121.1963716,38.79867285,05/09/2023,Payment,3208,ken taylor,Check,647,,-500,applied,ken taylor,"5866 Tree Swallow Cir, Rocklin, CA 95677"
-"5866 Tree Swallow Cir, Rocklin, California, 95677",Rocklin,Placer County,California,-121.1963716,38.79867285,05/09/2023,Invoice,1873,ken taylor,,647,,500,paid,ken taylor,"5866 Tree Swallow Cir, Rocklin, CA 95677"
-"5928 Via Francesco Ct, Loomis, California, 95650",Loomis,Placer County,California,-121.1927035,38.78151287,05/10/2023,Invoice,1811,fred lemke,,769,,54000,paid,fred lemke,"5928 Via Francesco Ct, Loomis, CA 95650"
-"5928 Via Francesco Ct, Loomis, California, 95650",Loomis,Placer County,California,-121.1927035,38.78151287,05/10/2023,Payment,761,fred lemke,Check,770,,-24000,applied,fred lemke,"5928 Via Francesco Ct, Loomis, CA 95650"
-"5928 Via Francesco Ct, Loomis, California, 95650",Loomis,Placer County,California,-121.1927035,38.78151287,05/12/2023,Payment,760,fred lemke,Check,776,,-17000,applied,fred lemke,"5928 Via Francesco Ct, Loomis, CA 95650"
-"5928 Via Francesco Ct, Loomis, California, 95650",Loomis,Placer County,California,-121.1927035,38.78151287,05/12/2023,Payment,759,fred lemke,Check,780,,-13000,applied,fred lemke,"5928 Via Francesco Ct, Loomis, CA 95650"
-"5928 Via Francesco Ct, Loomis, California, 95650",Loomis,Placer County,California,-121.1927035,38.78151287,05/12/2023,Invoice,1810,fred lemke,,806,,500,paid,fred lemke,"5928 Via Francesco Ct, Loomis, CA 95650"
-"5928 Via Francesco Ct, Loomis, California, 95650",Loomis,Placer County,California,-121.1927035,38.78151287,05/12/2023,Payment,148,fred lemke,Check,806,,-500,applied,fred lemke,"5928 Via Francesco Ct, Loomis, CA 95650"
-"12841 Glass Beach Dr, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.1902139,38.5576319,05/12/2023,Invoice,1905,Alec Hageman,,363,alechageman17@gmail.com,18500,paid,Alec Hageman,"12841 Glass Beach Dr, Rancho Cordova, CA 95742"
-"12841 Glass Beach Dr, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.1902139,38.5576319,05/12/2023,Payment,103,Alec Hageman,Check,377,alechageman17@gmail.com,-8500,applied,Alec Hageman,"12841 Glass Beach Dr, Rancho Cordova, CA 95742"
-"12841 Glass Beach Dr, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.1902139,38.5576319,05/15/2023,Payment,6720,Alec Hageman,Check,377,alechageman17@gmail.com,-3000,applied,Alec Hageman,"12841 Glass Beach Dr, Rancho Cordova, CA 95742"
-"12841 Glass Beach Dr, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.1902139,38.5576319,05/16/2023,Payment,101,Alec Hageman,Check,380,alechageman17@gmail.com,-7000,applied,Alec Hageman,"12841 Glass Beach Dr, Rancho Cordova, CA 95742"
-"12841 Glass Beach Dr, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.1902139,38.5576319,05/16/2023,Invoice,1906,vanessa mandal,,475,,600,paid,vanessa mandal,"12841 Glass Beach Dr, Rancho Cordova, CA 95742"
-"12841 Glass Beach Dr, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.1902139,38.5576319,05/16/2023,Payment,130,vanessa mandal,Check,475,,-600,applied,vanessa mandal,"12841 Glass Beach Dr, Rancho Cordova, CA 95742"
-"12841 Glass Beach Dr, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.1902139,38.5576319,05/19/2023,Invoice,1904,Alec Hageman,,482,,500,paid,Alec Hageman,"12841 Glass Beach Dr, Rancho Cordova, CA 95742"
-"12841 Glass Beach Dr, Rancho Cordova, California, 95742",Rancho Cordova,Sacramento County,California,-121.1902139,38.5576319,05/19/2023,Payment,305,Alec Hageman,Check,482,,-500,applied,Alec Hageman,"12841 Glass Beach Dr, Rancho Cordova, CA 95742"
-"110 Painted Rock Pl, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1894332,38.70620595,05/19/2023,Invoice,1734,richard leong,,869,,8250,paid,richard leong,"110 Painted Rock Pl, Folsom, CA 95630, US"
-"110 Painted Rock Pl, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1894332,38.70620595,05/23/2023,Payment,3659,richard leong,Check,877,,-8250,applied,richard leong,"110 Painted Rock Pl, Folsom, CA 95630, US"
-"257 Cascade Falls Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1860625,38.70853109,05/23/2023,Payment,102,Mike Shea,Check,415,,-900,applied,Mike Shea,"257 Cascade Falls Dr, Folsom, CA 95630,"
-"257 Cascade Falls Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1860625,38.70853109,05/23/2023,Invoice,1919,Mike Shea,,415,,900,paid,Mike Shea,"257 Cascade Falls Dr, Folsom, CA 95630,"
-"139 American River Canyon Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1856455,38.70321868,05/24/2023,Payment,8222,windy bridges,Check,832,,-8600,applied,windy bridges,"139 American River Canyon Dr, Folsom, CA 95630"
-"139 American River Canyon Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1856455,38.70321868,05/25/2023,Invoice,1745,windy bridges,,836,,6500,paid,windy bridges,"139 American River Canyon Dr, Folsom, CA 95630"
-"139 American River Canyon Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1856455,38.70321868,05/25/2023,Invoice,1774,windy bridges,,841,,2100,paid,windy bridges,"139 American River Canyon Dr, Folsom, CA 95630"
-"139 American River Canyon Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1856455,38.70321868,05/26/2023,Payment,173,windy bridges,Check,892,,-500,applied,windy bridges,"139 American River Canyon Dr, Folsom, CA 95630"
-"139 American River Canyon Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1856455,38.70321868,05/26/2023,Invoice,1744,windy bridges,,892,,500,paid,windy bridges,"139 American River Canyon Dr, Folsom, CA 95630"
-"1335 Fong St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1823684,38.67229051,05/26/2023,Payment,,breanne higgins,Cash,724,,-6500,applied,breanne higgins,1335 fong st CA
-"1335 Fong St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1823684,38.67229051,06/01/2023,Invoice,1840,breanne higgins,,724,,6500,paid,breanne higgins,1335 fong st CA
-"1335 Fong St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1823684,38.67229051,06/01/2023,Payment,1593,breanne higgins,Check,861,,-6000,applied,breanne higgins,1335 fong st CA
-"1335 Fong St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1823684,38.67229051,06/02/2023,Invoice,1770,breanne higgins,,861,,6000,paid,breanne higgins,1335 fong st CA
-"1335 Fong St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1823684,38.67229051,06/07/2023,Invoice,1769,breanne higgins,,863,,4000,paid,breanne higgins,1335 fong st CA
-"1335 Fong St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1823684,38.67229051,06/07/2023,Payment,,breanne higgins,Cash,863,,-4000,applied,breanne higgins,1335 fong st CA
-"1335 Fong St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1823684,38.67229051,06/07/2023,Invoice,1746,breanne higgins,,888,,400,paid,breanne higgins,1335 fong st CA
-"1335 Fong St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1823684,38.67229051,06/07/2023,Payment,5024,breanne higgins,Check,888,,-400,applied,breanne higgins,1335 fong st CA
-"227 Bluebird Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1741864,38.70315456,06/09/2023,Payment,3112,tamarah lucas,Check,336,,-6500,applied,tamarah lucas,"227 Bluebird Ln, Folsom, CA 95630"
-"227 Bluebird Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1741864,38.70315456,06/14/2023,Invoice,1929,tamarah lucas,,337,,6500,paid,tamarah lucas,"227 Bluebird Ln, Folsom, CA 95630"
-"227 Bluebird Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1741864,38.70315456,06/15/2023,Payment,3014,tamarah lucas,Check,391,,-500,applied,tamarah lucas,"227 Bluebird Ln, Folsom, CA 95630"
-"227 Bluebird Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1741864,38.70315456,06/16/2023,Invoice,1928,tamarah lucas,,391,,500,paid,tamarah lucas,"227 Bluebird Ln, Folsom, CA 95630"
-"417 Seaton Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1728569,38.65526221,06/16/2023,Invoice,1780,fahad khan,,783,,25000,paid,fahad khan,"417 Seaton Dr, Folsom, CA 95630"
-"417 Seaton Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1728569,38.65526221,06/16/2023,Payment,1273,fahad khan,Check,784,,-13400,applied,fahad khan,"417 Seaton Dr, Folsom, CA 95630"
-"417 Seaton Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1728569,38.65526221,06/16/2023,Invoice,1825,fahad khan,,785,,400,paid,fahad khan,"417 Seaton Dr, Folsom, CA 95630"
-"417 Seaton Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1728569,38.65526221,06/16/2023,Payment,1272,fahad khan,Check,790,,-12000,applied,fahad khan,"417 Seaton Dr, Folsom, CA 95630"
-"417 Seaton Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1728569,38.65526221,06/16/2023,Payment,1270,fahad khan,Check,853,,-300,applied,fahad khan,"417 Seaton Dr, Folsom, CA 95630"
-"417 Seaton Dr, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1728569,38.65526221,06/16/2023,Invoice,1779,fahad khan,,853,,300,paid,fahad khan,"417 Seaton Dr, Folsom, CA 95630"
-"216 Natoma St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1687836,38.67846617,06/16/2023,Payment,1187,Sundance Montessori,Check,328,stholden@comcast.net,-10000,applied,Sundance Montessori,"216 Natoma St, Folsom, Ca 95630"
-"216 Natoma St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1687836,38.67846617,06/20/2023,Invoice,1942,Sundance Montessori,,328,stholden@comcast.net,18500,paid,Sundance Montessori,"216 Natoma St, Folsom, Ca 95630"
-"216 Natoma St, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1687836,38.67846617,06/23/2023,Payment,1182,Sundance Montessori,Check,331,stholden@comcast.net,-8500,applied,Sundance Montessori,"216 Natoma St, Folsom, Ca 95630"
-"433 Ellis Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1611632,38.65218756,06/26/2023,Payment,1840,diane sullivan,Check,413,dianes916@sbcglobal.net,-4000,applied,diane sullivan,"433 Ellis Cir, Folsom, CA 95630"
-"433 Ellis Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1611632,38.65218756,06/27/2023,Invoice,1920,diane sullivan,,413,dianes916@sbcglobal.net,4000,paid,diane sullivan,"433 Ellis Cir, Folsom, CA 95630"
-"433 Ellis Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1611632,38.65218756,06/30/2023,Payment,1773,diane sullivan,Check,597,dianes916@sbcglobal.net,-14000,applied,diane sullivan,"433 Ellis Cir, Folsom, CA 95630"
-"433 Ellis Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1611632,38.65218756,06/30/2023,Invoice,1852,diane sullivan,,603,dianes916@sbcglobal.net,14000,paid,diane sullivan,"433 Ellis Cir, Folsom, CA 95630"
-"433 Ellis Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1611632,38.65218756,06/30/2023,Payment,1732,diane sullivan,Check,701,dianes916@sbcglobal.net,-400,applied,diane sullivan,"433 Ellis Cir, Folsom, CA 95630"
-"433 Ellis Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1611632,38.65218756,07/05/2023,Invoice,1851,diane sullivan,,701,dianes916@sbcglobal.net,400,paid,diane sullivan,"433 Ellis Cir, Folsom, CA 95630"
-"509 Kay Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1517972,38.65714986,07/05/2023,Payment,520,scott perkins,Check,479,,-6500,applied,scott perkins,"509 Kay Ct, Folsom, CA 95630"
-"509 Kay Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1517972,38.65714986,07/06/2023,Invoice,1872,scott perkins,,483,,16500,paid,scott perkins,"509 Kay Ct, Folsom, CA 95630"
-"509 Kay Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1517972,38.65714986,07/06/2023,Payment,519,scott perkins,Check,486,,-5000,applied,scott perkins,"509 Kay Ct, Folsom, CA 95630"
-"509 Kay Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1517972,38.65714986,07/06/2023,Payment,518,scott perkins,Check,492,,-5000,applied,scott perkins,"509 Kay Ct, Folsom, CA 95630"
-"101 Flint Rock Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1496385,38.66489344,07/06/2023,Invoice,1931,Frank Pedreza,,309,,11200,paid,Frank Pedreza,"101 Flint Rock Ct, Folsom, CA 95630"
-"101 Flint Rock Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1496385,38.66489344,07/07/2023,Payment,175,Frank Pedreza,Check,317,,-5600,applied,Frank Pedreza,"101 Flint Rock Ct, Folsom, CA 95630"
-"101 Flint Rock Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1496385,38.66489344,07/07/2023,Payment,140,Frank Pedreza,Check,317,,-5600,applied,Frank Pedreza,"101 Flint Rock Ct, Folsom, CA 95630"
-"101 Flint Rock Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1496385,38.66489344,07/07/2023,Invoice,1918,Frank Pedreza,,370,,10000,paid,Frank Pedreza,"101 Flint Rock Ct, Folsom, CA 95630"
-"101 Flint Rock Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1496385,38.66489344,07/11/2023,Payment,136,Frank Pedreza,Check,372,,-5000,applied,Frank Pedreza,"101 Flint Rock Ct, Folsom, CA 95630"
-"101 Flint Rock Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1496385,38.66489344,07/12/2023,Payment,3542,Frank Pedreza,Check,372,,-5000,applied,Frank Pedreza,"101 Flint Rock Ct, Folsom, CA 95630"
-"101 Flint Rock Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1496385,38.66489344,07/12/2023,Payment,165,Frank Pedreza,Check,422,,-500,applied,Frank Pedreza,"101 Flint Rock Ct, Folsom, CA 95630"
-"101 Flint Rock Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1496385,38.66489344,07/14/2023,Invoice,1917,Frank Pedreza,,422,,500,paid,Frank Pedreza,"101 Flint Rock Ct, Folsom, CA 95630"
-"128 Windstar Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1411951,38.68564569,07/14/2023,Payment,312,ken schwarz,Check,400,kmschwarz@att.net,-8900,applied,ken schwarz,"128 Windstar Cir, Folsom, CA 95630"
-"128 Windstar Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1411951,38.68564569,07/14/2023,Invoice,1909,ken schwarz,,400,kmschwarz@att.net,17900,paid,ken schwarz,"128 Windstar Cir, Folsom, CA 95630"
-"128 Windstar Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1411951,38.68564569,07/14/2023,Payment,1023,ken schwarz,Check,406,kmschwarz@att.net,-9000,applied,ken schwarz,"128 Windstar Cir, Folsom, CA 95630"
-"128 Windstar Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1411951,38.68564569,07/14/2023,Payment,310,ken schwarz,Check,464,kmschwarz@att.net,-500,applied,ken schwarz,"128 Windstar Cir, Folsom, CA 95630"
-"128 Windstar Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1411951,38.68564569,07/18/2023,Invoice,1908,ken schwarz,,464,kmschwarz@att.net,500,paid,ken schwarz,"128 Windstar Cir, Folsom, CA 95630"
-"128 Windstar Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1411951,38.68564569,07/20/2023,Payment,1017,ken schwarz,Check,666,kmschwarz@att.net,-4500,applied,ken schwarz,"128 Windstar Cir, Folsom, CA 95630"
-"128 Windstar Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1411951,38.68564569,07/24/2023,Invoice,1837,ken schwarz,,664,kmschwarz@att.net,4500,paid,ken schwarz,"128 Windstar Cir, Folsom, CA 95630"
-"128 Windstar Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1411951,38.68564569,07/26/2023,Payment,1015,ken schwarz,Check,758,kmschwarz@att.net,-500,applied,ken schwarz,"128 Windstar Cir, Folsom, CA 95630"
-"128 Windstar Cir, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1411951,38.68564569,07/26/2023,Invoice,1836,ken schwarz,,758,kmschwarz@att.net,500,paid,ken schwarz,"128 Windstar Cir, Folsom, CA 95630"
-"156 Hopper Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1238923,38.66854799,07/31/2023,Invoice,1968,jim klier,,231,m.klier@att.net,22500,paid,jim klier,"156 Hopper Ln, Folsom, CA 95630"
-"156 Hopper Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1238923,38.66854799,07/31/2023,Payment,201,jim klier,Check,237,,-7500,applied,jim klier,"156 Hopper Ln, Folsom, CA 95630"
-"156 Hopper Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1238923,38.66854799,07/31/2023,Payment,199,jim klier,Check,237,,-15000,applied,jim klier,"156 Hopper Ln, Folsom, CA 95630"
-"156 Hopper Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1238923,38.66854799,08/07/2023,Payment,1323,jim klier,Check,282,,-500,applied,jim klier,"156 Hopper Ln, Folsom, CA 95630"
-"156 Hopper Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1238923,38.66854799,08/07/2023,Invoice,1967,jim klier,,282,,500,paid,jim klier,"156 Hopper Ln, Folsom, CA 95630"
-"1121 Souza Way, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1197717,38.67983632,08/08/2023,Payment,2434,brad  blesso,Check,804,,-9500,applied,brad  blesso,"1121 Souza Way, Folsom, CA 95630"
-"1121 Souza Way, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1197717,38.67983632,08/08/2023,Invoice,1766,brad  blesso,,805,,9500,paid,brad  blesso,"1121 Souza Way, Folsom, CA 95630"
-"1121 Souza Way, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1197717,38.67983632,08/09/2023,Payment,2429,brad  blesso,Check,864,,-500,applied,brad  blesso,"1121 Souza Way, Folsom, CA 95630"
-"1121 Souza Way, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1197717,38.67983632,08/10/2023,Invoice,1765,brad  blesso,,864,,500,paid,brad  blesso,"1121 Souza Way, Folsom, CA 95630"
-"480 Trowbridge Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1165437,38.67398064,08/14/2023,Payment,321,Laureen Hunt,Check,917,,-7300,applied,Laureen Hunt,480 Trowbridge Lane CA
-"480 Trowbridge Ln, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1165437,38.67398064,08/14/2023,Invoice,1757,Laureen Hunt,,917,,7300,paid,Laureen Hunt,480 Trowbridge Lane CA
-"9717 Rim Rock Cir, Loomis, California, 95650",Loomis,Placer County,California,-121.112855,38.7997197,08/14/2023,Payment,,rory bain,Cash,877,,-7000,applied,rory bain,"9717 Rim Rock Cir, Loomis, CA 95650"
-"9717 Rim Rock Cir, Loomis, California, 95650",Loomis,Placer County,California,-121.112855,38.7997197,08/14/2023,Invoice,1750,rory bain,,877,,7000,paid,rory bain,"9717 Rim Rock Cir, Loomis, CA 95650"
-"9717 Rim Rock Cir, Loomis, California, 95650",Loomis,Placer County,California,-121.112855,38.7997197,08/14/2023,Payment,1760,rory bain,Check,883,,-10000,applied,rory bain,"9717 Rim Rock Cir, Loomis, CA 95650"
-"9717 Rim Rock Cir, Loomis, California, 95650",Loomis,Placer County,California,-121.112855,38.7997197,08/14/2023,Invoice,1749,rory bain,,883,,10000,paid,rory bain,"9717 Rim Rock Cir, Loomis, CA 95650"
-"11058 Caballo Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.110824,38.93411878,08/14/2023,Invoice,1799,karry buie,,776,,4500,paid,karry buie,"11058 Caballo Cir, Auburn, CA 95603"
-"11058 Caballo Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.110824,38.93411878,08/14/2023,Payment,1464359426TC,karry buie,QuickBooks Payments-Bank,777,,-4500,applied,karry buie,"11058 Caballo Cir, Auburn, CA 95603"
-"11058 Caballo Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.110824,38.93411878,08/15/2023,Payment,0062,karry buie,Check,818,,-500,applied,karry buie,"11058 Caballo Cir, Auburn, CA 95603"
-"11058 Caballo Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.110824,38.93411878,08/17/2023,Invoice,1798,karry buie,,818,,500,paid,karry buie,"11058 Caballo Cir, Auburn, CA 95603"
-"1840 Terrace Cove Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1091574,38.66657585,08/17/2023,Invoice,1978,dean gardner,,193,,14210,paid,dean gardner,"1840 Terrace Cove Ct, Folsom, CA 95630"
-"1840 Terrace Cove Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1091574,38.66657585,08/18/2023,Payment,,dean gardner,Credit Card,195,,-7210,applied,dean gardner,"1840 Terrace Cove Ct, Folsom, CA 95630"
-"1840 Terrace Cove Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1091574,38.66657585,08/18/2023,Payment,4135,dean gardner,Check,196,,-7000,applied,dean gardner,"1840 Terrace Cove Ct, Folsom, CA 95630"
-"1840 Terrace Cove Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1091574,38.66657585,08/18/2023,Payment,4126,dean gardner,Check,238,,-500,applied,dean gardner,"1840 Terrace Cove Ct, Folsom, CA 95630"
-"1840 Terrace Cove Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1091574,38.66657585,08/18/2023,Invoice,1972,dean gardner,,238,,500,paid,dean gardner,"1840 Terrace Cove Ct, Folsom, CA 95630"
-"1013 Bearsden Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1070808,38.67425443,08/18/2023,Payment,757,karen jackson,Check,435,,-520,applied,karen jackson,"1013 Bearsden Ct, Folsom, CA 95630"
-"1013 Bearsden Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1070808,38.67425443,08/18/2023,Payment,756,karen jackson,Check,447,,-4980,applied,karen jackson,"1013 Bearsden Ct, Folsom, CA 95630"
-"1013 Bearsden Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1070808,38.67425443,08/24/2023,Payment,755,karen jackson,Check,448,,-6000,applied,karen jackson,"1013 Bearsden Ct, Folsom, CA 95630"
-"1013 Bearsden Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1070808,38.67425443,08/25/2023,Invoice,1882,karen jackson,,468,,11500,paid,karen jackson,"1013 Bearsden Ct, Folsom, CA 95630"
-"1013 Bearsden Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1070808,38.67425443,08/28/2023,Payment,706,karen jackson,Check,568,,-500,applied,karen jackson,"1013 Bearsden Ct, Folsom, CA 95630"
-"1013 Bearsden Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.1070808,38.67425443,08/28/2023,Invoice,1881,karen jackson,,568,,500,paid,karen jackson,"1013 Bearsden Ct, Folsom, CA 95630"
-"11260 Sunrise Ridge Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.0928992,38.8694151,08/29/2023,Payment,7654,lisa schuster,Check,339,,-9800,applied,lisa schuster,"11260 Sunrise Ridge Cir, Auburn, CA 95603"
-"11260 Sunrise Ridge Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.0928992,38.8694151,08/29/2023,Invoice,1927,lisa schuster,,339,,39800,paid,lisa schuster,"11260 Sunrise Ridge Cir, Auburn, CA 95603"
-"11260 Sunrise Ridge Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.0928992,38.8694151,08/31/2023,Payment,7653,lisa schuster,Check,346,,-10000,applied,lisa schuster,"11260 Sunrise Ridge Cir, Auburn, CA 95603"
-"11260 Sunrise Ridge Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.0928992,38.8694151,09/01/2023,Payment,7652,lisa schuster,Check,353,,-10000,applied,lisa schuster,"11260 Sunrise Ridge Cir, Auburn, CA 95603"
-"11260 Sunrise Ridge Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.0928992,38.8694151,09/06/2023,Payment,7651,lisa schuster,Check,359,,-10000,applied,lisa schuster,"11260 Sunrise Ridge Cir, Auburn, CA 95603"
-"11260 Sunrise Ridge Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.0928992,38.8694151,09/06/2023,Payment,7649,lisa schuster,Check,391,,-500,applied,lisa schuster,"11260 Sunrise Ridge Cir, Auburn, CA 95603"
-"11260 Sunrise Ridge Cir, Auburn, California, 95603",Auburn,Placer County,California,-121.0928992,38.8694151,09/07/2023,Invoice,1926,lisa schuster,,391,,500,paid,lisa schuster,"11260 Sunrise Ridge Cir, Auburn, CA 95603"
-"4734 Rockrose Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.0919355,38.6279844,09/11/2023,Payment,99,Rico Bundalian,Check,419,,-4000,applied,Rico Bundalian,"4734 Rockrose Ct, Folsom, CA 95630"
-"4734 Rockrose Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.0919355,38.6279844,09/11/2023,Payment,payment tech,Rico Bundalian,Credit Card,419,,-4120,applied,Rico Bundalian,"4734 Rockrose Ct, Folsom, CA 95630"
-"4734 Rockrose Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.0919355,38.6279844,09/14/2023,Invoice,1903,Rico Bundalian,,419,,8120,paid,Rico Bundalian,"4734 Rockrose Ct, Folsom, CA 95630"
-"4734 Rockrose Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.0919355,38.6279844,09/14/2023,Payment,99,Rico Bundalian,Check,482,,-400,applied,Rico Bundalian,"4734 Rockrose Ct, Folsom, CA 95630"
-"4734 Rockrose Ct, Folsom, California, 95630",Folsom,Sacramento County,California,-121.0919355,38.6279844,09/20/2023,Invoice,1902,Rico Bundalian,,482,,400,paid,Rico Bundalian,"4734 Rockrose Ct, Folsom, CA 95630"
-"4358 Suffolk Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0904114,38.69354467,09/21/2023,Payment,474,kevin vieira,Check,722,,-1000,applied,kevin vieira,"4358 Suffolk Way, El Dorado Hills, CA 95762"
-"4358 Suffolk Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0904114,38.69354467,09/25/2023,Payment,473,kevin vieira,Check,743,,-5000,applied,kevin vieira,"4358 Suffolk Way, El Dorado Hills, CA 95762"
-"4358 Suffolk Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0904114,38.69354467,09/26/2023,Invoice,1806,kevin vieira,,743,,19000,paid,kevin vieira,"4358 Suffolk Way, El Dorado Hills, CA 95762"
-"4358 Suffolk Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0904114,38.69354467,09/27/2023,Payment,472,kevin vieira,Check,748,,-13000,applied,kevin vieira,"4358 Suffolk Way, El Dorado Hills, CA 95762"
-"4358 Suffolk Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0904114,38.69354467,09/27/2023,Invoice,1805,kevin vieira,,808,,200,paid,kevin vieira,"4358 Suffolk Way, El Dorado Hills, CA 95762"
-"4358 Suffolk Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0904114,38.69354467,09/27/2023,Payment,467,kevin vieira,Check,808,,-200,applied,kevin vieira,"4358 Suffolk Way, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,09/27/2023,Invoice,1829,john tarrar,,559,,60500,paid,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,09/29/2023,Payment,3153,john tarrar,Check,559,,-5000,applied,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,09/29/2023,Payment,3151,john tarrar,Check,566,,-2000,applied,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,10/03/2023,Payment,3050,john tarrar,Check,573,,-13500,applied,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,10/03/2023,Payment,3049,john tarrar,Check,580,,-10000,applied,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,10/03/2023,Payment,3048,john tarrar,Check,584,,-10000,applied,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,10/03/2023,Payment,3045,john tarrar,Check,591,,-10000,applied,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,10/03/2023,Payment,3043,john tarrar,Check,601,,-10000,applied,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,10/03/2023,Payment,3010,john tarrar,Check,772,,-1000,applied,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"301 Powers Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0892674,38.67579482,10/03/2023,Invoice,1828,john tarrar,,772,,1000,paid,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762"
-"208 Rushcliffe Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0851854,38.71798802,10/03/2023,Payment,,doreen wachira,Credit Card,454,,-5150,applied,doreen wachira,"208 Rushcliffe Ct, El Dorado Hills, CA 95762"
-"208 Rushcliffe Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0851854,38.71798802,10/05/2023,Invoice,1854,doreen wachira,,454,,22300,paid,doreen wachira,"208 Rushcliffe Ct, El Dorado Hills, CA 95762"
-"208 Rushcliffe Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0851854,38.71798802,10/06/2023,Payment,,doreen wachira,Credit Card,461,,-5150,applied,doreen wachira,"208 Rushcliffe Ct, El Dorado Hills, CA 95762"
-"208 Rushcliffe Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0851854,38.71798802,10/06/2023,Payment,371,doreen wachira,Check,472,,-12000,applied,doreen wachira,"208 Rushcliffe Ct, El Dorado Hills, CA 95762"
-"208 Rushcliffe Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0851854,38.71798802,10/10/2023,Payment,212,doreen wachira,Check,701,,-200,applied,doreen wachira,"208 Rushcliffe Ct, El Dorado Hills, CA 95762"
-"208 Rushcliffe Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0851854,38.71798802,10/10/2023,Invoice,1853,doreen wachira,,701,,200,paid,doreen wachira,"208 Rushcliffe Ct, El Dorado Hills, CA 95762"
-"15095 Robles Grandes Dr, Sloughhouse, California, 95683",Sloughhouse,Sacramento County,California,-121.0843808,38.51132347,10/11/2023,Payment,,Lee Cox,,139,,-7000,applied,Lee Cox,15095 Robles Grandes Dr
-"15095 Robles Grandes Dr, Sloughhouse, California, 95683",Sloughhouse,Sacramento County,California,-121.0843808,38.51132347,10/11/2023,Payment,,Lee Cox,,146,,-700,applied,Lee Cox,15095 Robles Grandes Dr
-"15095 Robles Grandes Dr, Sloughhouse, California, 95683",Sloughhouse,Sacramento County,California,-121.0843808,38.51132347,10/12/2023,Invoice,1982,Lee Cox,,161,,7700,paid,Lee Cox,15095 Robles Grandes Dr
-"3446 Tah Nee Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0731532,38.68001858,10/12/2023,Invoice,1954,bob freeman,,266,,20000,paid,bob freeman,"3446 Tah Nee Way, El Dorado Hills, CA 95762"
-"3446 Tah Nee Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0731532,38.68001858,10/18/2023,Payment,,bob freeman,Check,266,,-9000,applied,bob freeman,"3446 Tah Nee Way, El Dorado Hills, CA 95762"
-"3446 Tah Nee Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0731532,38.68001858,10/19/2023,Payment,4878,bob freeman,Check,267,,-11000,applied,bob freeman,"3446 Tah Nee Way, El Dorado Hills, CA 95762"
-"3446 Tah Nee Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0731532,38.68001858,10/19/2023,Payment,4871,bob freeman,Check,329,,-500,applied,bob freeman,"3446 Tah Nee Way, El Dorado Hills, CA 95762"
-"3446 Tah Nee Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0731532,38.68001858,10/24/2023,Invoice,1953,bob freeman,,329,,500,paid,bob freeman,"3446 Tah Nee Way, El Dorado Hills, CA 95762"
-"3900 Hills Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0729042,38.65478122,10/25/2023,Payment,107,Rebecca Abbas,Check,301,,-6500,applied,Rebecca Abbas,"3900 Hills Ct, El Dorado Hills, CA 95762"
-"3900 Hills Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0729042,38.65478122,10/30/2023,Payment,106,Rebecca Abbas,Check,304,,-5000,applied,Rebecca Abbas,"3900 Hills Ct, El Dorado Hills, CA 95762"
-"3900 Hills Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0729042,38.65478122,11/08/2023,Invoice,1944,Rebecca Abbas,,304,,11500,paid,Rebecca Abbas,"3900 Hills Ct, El Dorado Hills, CA 95762"
-"3900 Hills Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0729042,38.65478122,11/09/2023,Payment,105,Rebecca Abbas,Check,338,,-500,applied,Rebecca Abbas,"3900 Hills Ct, El Dorado Hills, CA 95762"
-"3900 Hills Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0729042,38.65478122,11/10/2023,Invoice,1943,Rebecca Abbas,,338,,500,paid,Rebecca Abbas,"3900 Hills Ct, El Dorado Hills, CA 95762"
-"4115 Meadow Wood Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0710405,38.67048509,11/16/2023,Invoice,1952,russ mills,,280,,6000,paid,russ mills,"4115 Meadow Wood Dr, Folsom, CA 95762"
-"4115 Meadow Wood Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0710405,38.67048509,11/16/2023,Payment,,russ mills,,301,,-6000,applied,russ mills,"4115 Meadow Wood Dr, Folsom, CA 95762"
-"4115 Meadow Wood Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0710405,38.67048509,11/17/2023,Payment,173,russ mills,Check,332,,-500,applied,russ mills,"4115 Meadow Wood Dr, Folsom, CA 95762"
-"4115 Meadow Wood Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0710405,38.67048509,11/17/2023,Invoice,1951,russ mills,,332,,500,paid,russ mills,"4115 Meadow Wood Dr, Folsom, CA 95762"
-"15379 Murieta South Pkwy, Rancho Murieta, California, 95683",Rancho Murieta,Sacramento County,California,-121.0702268,38.4890357,11/17/2023,Invoice,1936,Brian Cuddevack,,371,,500,paid,Brian Cuddevack,"15379 Murieta S Pkwy, Rancho Murieta, CA 95683"
-"15379 Murieta South Pkwy, Rancho Murieta, California, 95683",Rancho Murieta,Sacramento County,California,-121.0702268,38.4890357,11/22/2023,Payment,9316,Brian Cuddevack,Check,371,,-500,applied,Brian Cuddevack,"15379 Murieta S Pkwy, Rancho Murieta, CA 95683"
-"4416 Woodthrush Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0679461,38.6720841,11/22/2023,Payment,8485,keith wallace,Check,825,,-8000,applied,keith wallace,"4416 Woodthrush Dr, El Dorado Hills, CA 95762"
-"4416 Woodthrush Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0679461,38.6720841,11/23/2023,Invoice,1752,keith wallace,,832,,8000,paid,keith wallace,"4416 Woodthrush Dr, El Dorado Hills, CA 95762"
-"4416 Woodthrush Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0679461,38.6720841,11/24/2023,Invoice,1751,keith wallace,,877,,400,paid,keith wallace,"4416 Woodthrush Dr, El Dorado Hills, CA 95762"
-"4416 Woodthrush Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0679461,38.6720841,11/24/2023,Payment,8482,keith wallace,Check,877,,-400,applied,keith wallace,"4416 Woodthrush Dr, El Dorado Hills, CA 95762"
-"8023 Marches Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0528223,38.67700755,11/24/2023,Payment,,patricia Paolucci,Check,846,,-13600,applied,patricia Paolucci,"8023 Marches Way, El Dorado Hills, CA 95762"
-"8023 Marches Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0528223,38.67700755,11/24/2023,Invoice,1773,patricia Paolucci,,846,,4600,paid,patricia Paolucci,"8023 Marches Way, El Dorado Hills, CA 95762"
-"8023 Marches Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0528223,38.67700755,11/29/2023,Invoice,1729,patricia Paolucci,,846,,9000,paid,patricia Paolucci,"8023 Marches Way, El Dorado Hills, CA 95762"
-"8023 Marches Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0528223,38.67700755,11/30/2023,Payment,4474,patricia Paolucci,Check,917,,-800,applied,patricia Paolucci,"8023 Marches Way, El Dorado Hills, CA 95762"
-"8023 Marches Way, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0528223,38.67700755,12/01/2023,Invoice,1728,patricia Paolucci,,917,,800,paid,patricia Paolucci,"8023 Marches Way, El Dorado Hills, CA 95762"
-"7054 Hearst Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0379812,38.67437035,12/04/2023,Payment,2172,brooke moloughney,Check,828,,-5000,applied,brooke moloughney,"7054 Hearst Dr, El Dorado Hills, CA 95762"
-"7054 Hearst Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0379812,38.67437035,12/11/2023,Invoice,1783,brooke moloughney,,835,,15000,paid,brooke moloughney,"7054 Hearst Dr, El Dorado Hills, CA 95762"
-"7054 Hearst Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0379812,38.67437035,12/20/2023,Payment,2171,brooke moloughney,Check,839,,-10000,applied,brooke moloughney,"7054 Hearst Dr, El Dorado Hills, CA 95762"
-"7054 Hearst Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0379812,38.67437035,12/28/2023,Payment,2169,brooke moloughney,Check,846,,-500,applied,brooke moloughney,"7054 Hearst Dr, El Dorado Hills, CA 95762"
-"7054 Hearst Dr, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0379812,38.67437035,12/29/2023,Invoice,1782,brooke moloughney,,846,,500,paid,brooke moloughney,"7054 Hearst Dr, El Dorado Hills, CA 95762"
-"840 Leighton Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0354679,38.68724881,12/29/2023,Payment,125,kim nice,Check,282,,-4000,applied,kim nice,"840 Leighton Ct, El Dorado Hills, CA 95762"
-"840 Leighton Ct, El Dorado Hills, California, 95762",El Dorado Hills,El Dorado County,California,-121.0354679,38.68724881,12/31/2023,Invoice,1969,kim nice,,282,,4000,paid,kim nice,"840 Leighton Ct, El Dorado Hills, CA 95762"
+Date sold,Aging,Name,Full Property Address,X,Y,City,Zip,Zestimate,Zestimate Link,Deal Amount,Project Scope,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1/1/2022,922,Donny Kennedy,3013 Fox Hill Dr CA,-121.2436819,38.81315262,Rocklin,95765,"$892,200 ",https://www.zillow.com/homedetails/3013-Fox-Hill-Dr-Rocklin-CA-95765/51066160_zpid/,$0 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1/6/2022,917,Laureen Hunt,480 Trowbridge Lane CA,-121.1165437,38.67398064,Folsom,95630,"$1,110,500 ",https://www.zillow.com/homedetails/480-Trowbridge-Ln-Folsom-CA-95630/25877028_zpid/,"$7,300 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1/20/2022,903,Michelle Westervelt,2985 Mareca Way CA,-121.5545263,38.54351267,West Sacramento,95691,"$655,000 ",https://www.zillow.com/homedetails/2985-Mareca-Way-West-Sacramento-CA-95691/16530767_zpid/,"$8,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1/28/2022,895,robert beem,"6911 Danberg Way, Elk Grove, CA 95757",-121.4227712,38.40188243,Elk Grove,95757,"$883,400 ",https://www.zillow.com/homedetails/6911-Danberg-Way-Elk-Grove-CA-95757/61334188_zpid/,"$4,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1/28/2022,895,Karyl Fiddyment,7417 Netherbury Ct CA,-121.41659,38.39985221,Elk Grove,95757,"$661,500 ",https://www.zillow.com/homedetails/7417-Netherbury-Ct-Elk-Grove-CA-95757/94693873_zpid/,"$10,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/15/2022,877,mark sikich,"1641 Bella Cir, Lincoln, CA 95648",-121.2336891,38.86442251,Lincoln,95648,"$1,258,700 ",https://www.zillow.com/homedetails/1641-Bella-Cir-Lincoln-CA-95648/63468583_zpid/,$500 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/16/2022,876,erika klein,"4112 E Nichols Ave, Sacramento, CA 95820",-121.4585798,38.53736366,Sacramento,95820,"$386,100 ",https://www.zillow.com/homedetails/4112-E-Nichols-Ave-Sacramento-CA-95820/25808293_zpid/,"$4,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/23/2022,869,steve delrio,"3428 Braeburn St, Sacramento, CA 95821",-121.3678932,38.62767347,Sacramento,95821,"$612,900 ",https://www.zillow.com/homedetails/3428-Braeburn-St-Sacramento-CA-95821/26063873_zpid/,"$13,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2/23/2022,869,richard leong,"110 Painted Rock Pl, Folsom, CA 95630, US",-121.1894332,38.70620595,Folsom,95630,"$1,256,000 ",https://www.zillow.com/homedetails/110-Painted-Rock-Pl-Folsom-CA-95630/26020501_zpid/,"$8,250 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/4/2022,860,michelle dunn,"6833 Harvest Oak Ct, Elk Grove, CA 95758",-121.424284,38.42062445,Elk Grove,95758,"$695,500 ",https://www.zillow.com/homedetails/6833-Harvest-Oak-Ct-Elk-Grove-CA-95758/25913173_zpid/,"$4,400 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/16/2022,848,greg nicholson,"11832 Old Eureka Way, Gold River, CA 95670",-121.2350439,38.62896504,Gold River,95670,"$682,600 ",https://www.zillow.com/homedetails/11832-Old-Eureka-Way-Gold-River-CA-95670/25872086_zpid/,"$6,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/18/2022,846,tim healea,"2127 Van Ness Dr, Roseville, CA 95661",-121.2475464,38.73076979,Roseville,95661,"$689,200 ",https://www.zillow.com/homedetails/2127-Van-Ness-Dr-Roseville-CA-95661/17726120_zpid/,"$13,800 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2022,840,jerry turley,"308 Beatty Ct, Roseville, CA 95747",-121.3086949,38.73947699,Roseville,95747,"$514,700 ",https://www.zillow.com/homedetails/308-Beatty-Ct-Roseville-CA-95747/17730606_zpid/,"$4,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/25/2022,839,dave diller,"2721 Manzanita Dr, Rocklin, CA 95677",-121.2202489,38.79366788,Rocklin,95677,"$640,000 ",https://www.zillow.com/homedetails/2721-Manzanita-Dr-Rocklin-CA-95677/17675459_zpid/,"$7,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4/8/2022,825,tracy snyder,"1883 Zurlo Way, Sacramento, CA 95835",-121.5040053,38.68408934,Sacramento,95835,"$591,900 ",https://www.zillow.com/homedetails/1883-Zurlo-Way-Sacramento-CA-95835/63045372_zpid/,"$5,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4/18/2022,815,sue mckittrick,"2105 Bald Eagle Ct, Gold River, CA 95670",-121.235948,38.62621955,Gold River,95670,"$735,000 ",https://www.zillow.com/homedetails/2105-Bald-Eagle-Ct-Gold-River-CA-95670/25871929_zpid/,"$4,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/11/2022,792,sueng obrien,"9892 Antone Ct, Sacramento, CA 95829",-121.325693,38.45943899,Sacramento,95829,"$795,300 ",https://www.zillow.com/homedetails/9892-Antone-Ct-Sacramento-CA-95829/61330935_zpid/,"$16,100 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/20/2022,783,fahad khan,"417 Seaton Dr, Folsom, CA 95630",-121.1728569,38.65526221,Folsom,95630,"$788,800 ",https://www.zillow.com/homedetails/417-Seaton-Dr-Folsom-CA-95630/25883364_zpid/,"$25,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/27/2022,776,karry buie,"11058 Caballo Cir, Auburn, CA 95603",-121.110824,38.93411878,Auburn,95603,"$609,000 ",https://www.zillow.com/homedetails/11058-Caballo-Cir-Auburn-CA-95603/68558951_zpid/,"$4,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6/3/2022,769,fred lemke,"5928 Via Francesco Ct, Loomis, CA 95650",-121.1927035,38.78151287,Loomis,95650,"$1,710,800 ",https://www.zillow.com/homedetails/5928-Via-Francesco-Ct-Loomis-CA-95650/17675898_zpid/,"$54,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7/15/2022,727,grace aughney,"6674 Fordham Way, Sacramento, CA 95831",-121.5080203,38.50502582,Sacramento,95831,"$649,700 ",https://www.zillow.com/homedetails/6674-Fordham-Way-Sacramento-CA-95831/25816912_zpid/,"$12,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7/19/2022,723,chris rhodes,"8603 Excelsior Rd, Elk Grove, CA 95624,",-121.2975423,38.44531067,Elk Grove,95624,"$1,705,600 ",https://www.zillow.com/homedetails/8603-Excelsior-Rd-Elk-Grove-CA-95624/25941623_zpid/,"$26,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7/28/2022,714,leon clark,"2296 Cumberland Lp, Roseville, CA 95747",-121.3633377,38.79522994,Roseville,95747,"$1,323,900 ",https://www.zillow.com/homedetails/2296-Cumberland-Loop-Roseville-CA-95747/252071375_zpid/,"$11,600 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/5/2022,706,stan dennis,"205 Chesley Ct, Lincoln, CA 95648",-121.2778968,38.89023089,Lincoln,95648,"$678,400 ",https://www.zillow.com/homedetails/205-Chesley-Ct-Lincoln-CA-95648/68559701_zpid/,"$40,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/5/2022,706,Daniel Hernadez,"3289 Oselot Way, Rancho Cordova, CA 95670",-121.2667866,38.58310278,Rancho Cordova,95670,"$663,200 ",https://www.zillow.com/homedetails/3289-Oselot-Way-Rancho-Cordova-CA-95670/67822145_zpid/,$200 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/10/2022,701,linda ly,"1648 Stetson Cir, West Sacramento, CA 95691",-121.531325,38.55149299,West Sacramento,95691,"$753,900 ",https://www.zillow.com/homedetails/1648-Stetson-Cir-West-Sacramento-CA-95691/334058343_zpid/,$200 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8/19/2022,692,cliff tejada,"8720 Seckel Ct, Elk Grove, CA 95624",-121.3793688,38.41279928,Elk Grove,95624,"$593,200 ",https://www.zillow.com/homedetails/8720-Seckel-Ct-Elk-Grove-CA-95624/25943223_zpid/,"$14,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9/14/2022,666,bill nevius,"117 Mcmindes Ct, Roseville, CA 95747",-121.3230487,38.77084656,Roseville,95747,"$939,900 ",https://www.zillow.com/homedetails/117-McMindes-Ct-Roseville-CA-95747/17735570_zpid/,"$5,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9/23/2022,657,lori parker,"10960 Alandale Way, Rancho Cordova, CA 95670",-121.2785888,38.6056636,Rancho Cordova,95670,"$545,700 ",https://www.zillow.com/homedetails/10960-Alandale-Way-Rancho-Cordova-CA-95670/25861806_zpid/,"$13,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/7/2022,643,Brittany Newton,"3917 Miller Way, Sacramento, CA 95817",-121.4620971,38.55559719,Sacramento,95817,"$714,200 ",https://www.zillow.com/homedetails/3917-Miller-Way-Sacramento-CA-95817/25798957_zpid/,"$10,800 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/31/2022,619,"ARDEN TOWN CENTER, LLC","3535 Fair Oaks Ave, Altadena, CA 91001",-121.3814475,38.57461447,Sacramento,91001,"$1,147,100 ",https://www.zillow.com/homedetails/3535-Fair-Oaks-Ave-Altadena-CA-91001/20910567_zpid/,"$58,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/18/2022,601,Ben Amiwero,"3024 Lasso Way, Roseville, CA 95747",-121.3499925,38.80294301,Roseville,95747,"$841,700 ",https://www.zillow.com/homedetails/3024-Lasso-Way-Roseville-CA-95747/122007355_zpid/,"$32,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/15/2022,574,kevin watkins,"8479 Mediterranean Way, Sacramento, CA 95826",-121.3921057,38.55962805,Sacramento,95826,"$546,200 ",https://www.zillow.com/homedetails/8479-Mediterranean-Way-Sacramento-CA-95826/25898214_zpid/,"$5,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/30/2022,559,debbie logdson,"525 Los Garcias Ln, Elverta, CA 95626",-121.4728432,38.73319438,Elverta,95626,"$631,900 ",https://www.zillow.com/homedetails/525-Los-Garcias-Ln-Elverta-CA-95626/25961604_zpid/,"$12,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/30/2022,559,lana shilo,"3198 Anastasia Way, Lincoln, CA 95648",-121.250767,38.84579402,Lincoln,95648,"$1,169,900 ",https://www.zillow.com/homedetails/3198-Anastasia-Way-Lincoln-CA-95648/325634421_zpid/,"$11,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/30/2022,559,john tarrar,"301 Powers Dr, El Dorado Hills, CA 95762",-121.0892674,38.67579482,El Dorado Hills,95762,"$1,283,800 ",https://www.zillow.com/homedetails/301-Powers-Dr-El-Dorado-Hills-CA-95762/18614891_zpid/,"$60,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2023,475,torrie reece,"4715 Robin Ct, Rocklin, CA 95677",-121.2168985,38.78340508,Rocklin,95677,"$968,100 ",https://www.zillow.com/homedetails/4715-Robin-Ct-Rocklin-CA-95677/54663324_zpid/,"$10,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4/17/2023,451,ryan exner,"1664 Fern Glen Ave, Sacramento, CA 95834",-121.4968347,38.65039057,Sacramento,95834,"$748,000 ",https://www.zillow.com/homedetails/1664-Fern-Glen-Ave-Sacramento-CA-95834/250745626_zpid/,"$13,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4/19/2023,449,Nancy Pearson,"5206 Levison Way, Rocklin, CA 95677",-121.2309834,38.78812619,Rocklin,95677,"$775,900 ",https://www.zillow.com/homedetails/5206-Levison-Way-Rocklin-CA-95677/188064909_zpid/,"$12,600 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4/28/2023,440,Dan McCarthy,"2302 Spanish Trail, Rocklin, CA 95765",-121.275784,38.79922421,Rocklin,95765,"$944,100 ",https://www.zillow.com/homedetails/2302-Spanish-Trl-Rocklin-CA-95765/54666535_zpid/,"$10,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/12/2023,426,Lloyd Pochop,"7325 Main Ave, Orangevale, CA 95662",-121.2016223,38.69901847,Orangevale,95662,"$669,100 ",https://www.zillow.com/homedetails/7325-Main-Ave-Orangevale-CA-95662/25987096_zpid/,"$6,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/12/2023,426,ken taylor,"5866 Tree Swallow Cir, Rocklin, CA 95677",-121.1963716,38.79867285,Rocklin,95677,"$1,154,600 ",https://www.zillow.com/homedetails/5866-Tree-Swallow-Cir-Rocklin-CA-95677/240326530_zpid/,$480 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/16/2023,422,Mike Orbanosky,"6561 Longridge Way, Sacramento, CA 95831",-121.5086754,38.50771398,Sacramento,95831,"$727,700 ",https://www.zillow.com/homedetails/6561-Longridge-Way-Sacramento-CA-95831/25816775_zpid/,"$5,665 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6/23/2023,384,bill neal,"8315 Cedar Falls Ct, Granite Bay, CA 95746",-121.2071032,38.74860933,Granite Bay,95746,"$1,665,400 ",https://www.zillow.com/homedetails/8315-Cedar-Falls-Ct-Granite-Bay-CA-95746/54667910_zpid/,"$44,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6/30/2023,377,Earl Warren,"3021 American River Dr, Sacramento, CA 95864",-121.3923439,38.56774751,Sacramento,95864,"$931,600 ",https://www.zillow.com/homedetails/3021-American-River-Dr-Sacramento-CA-95864/26106386_zpid/,"$13,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7/6/2023,371,Brian Cuddevack,"15379 Murieta S Pkwy, Rancho Murieta, CA 95683",-121.0702268,38.4890357,Rancho Murieta,95683,"$746,000 ",https://www.zillow.com/homedetails/15379-Murieta-South-Pkwy-Rancho-Murieta-CA-95683/54912522_zpid/,$500 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7/7/2023,370,Thresa Hellen,"3405 Birchdale Way, Sacramento, CA 95843",-121.3845056,38.72696529,Antelope,95843,"$458,400 ",https://www.zillow.com/homedetails/3405-Birchdale-Way-Antelope-CA-95843/25972000_zpid/,"$8,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7/11/2023,366,kathy seed,"2781 Glenview Dr, Placerville, CA 95667",-120.7729687,38.73840562,Placerville,95667,"$481,800 ",https://www.zillow.com/homedetails/2781-Glenview-Dr-Placerville-CA-95667/18589592_zpid/,"$11,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7/14/2023,363,Alec Hageman,"12841 Glass Beach Dr, Rancho Cordova, CA 95742",-121.1902139,38.5576319,Rancho Cordova,95742,"$682,400 ",https://www.zillow.com/homedetails/12841-Glass-Beach-Dr-Rancho-Cordova-CA-95742/325580131_zpid/,"$18,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9/1/2023,314,Dianne Copland,"9316 Laguna Lake Way, Elk Grove, CA 95758",-121.4319635,38.41582703,Elk Grove,95758,"$841,100 ",https://www.zillow.com/homedetails/9316-Laguna-Lake-Way-Elk-Grove-CA-95758/25929633_zpid/,"$18,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9/6/2023,309,Frank Pedreza,"101 Flint Rock Ct, Folsom, CA 95630",-121.1496385,38.66489344,Folsom,95630,"$1,179,800 ",https://www.zillow.com/homedetails/101-Flint-Rock-Ct-Folsom-CA-95630/25881653_zpid/,"$11,200 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9/7/2023,308,marty hock,"7209 Calvin Dr, Citrus Heights, CA 95621",-121.2994263,38.69882187,Citrus Heights,95621,"$437,400 ",https://www.zillow.com/homedetails/7209-Calvin-Dr-Citrus-Heights-CA-95621/25983481_zpid/,"$18,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/5/2023,280,russ mills,"4115 Meadow Wood Dr, Folsom, CA 95762",-121.0710405,38.67048509,El Dorado Hills,95762,"$1,125,400 ",https://www.zillow.com/homedetails/4115-Meadow-Wood-Dr-El-Dorado-Hills-CA-95762/18620428_zpid/,"$6,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/19/2023,266,bob freeman,"3446 Tah Nee Way, El Dorado Hills, CA 95762",-121.0731532,38.68001858,El Dorado Hills,95762,"$892,300 ",https://www.zillow.com/homedetails/3446-Tah-Nee-Way-El-Dorado-Hills-CA-95762/18619687_zpid/,"$20,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/10/2023,244,Judy Herbst,"1429 Oak Grove Dr, Roseville, CA 95747",-121.3174433,38.77768443,Roseville,95747,"$722,500 ",https://www.zillow.com/homedetails/1429-Oak-Grove-Dr-Roseville-CA-95747/17733596_zpid/,"$28,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/17/2023,237,paul millard,"4814 Hangar Ct, Fair Oaks, CA 95628",-121.2166722,38.65470553,Fair Oaks,95628,"$825,700 ",https://www.zillow.com/homedetails/4814-Hangar-Ct-Fair-Oaks-CA-95628/26054654_zpid/,"$16,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/22/2023,232,rodney gippetti,"8284 Prairie Star Ct, Sacramento, CA 95829",-121.3170741,38.45679806,Sacramento,95829,"$862,900 ",https://www.zillow.com/homedetails/8284-Prairie-Star-Ct-Sacramento-CA-95829/54911494_zpid/,"$10,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/23/2023,231,jim klier,"156 Hopper Ln, Folsom, CA 95630",-121.1238923,38.66854799,Folsom,95630,"$799,700 ",https://www.zillow.com/homedetails/156-Hopper-Ln-Folsom-CA-95630/25880325_zpid/,"$22,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/29/2023,225,kathy webb,"9566 Moon River Way, Elk Grove, CA 95624",-121.3401762,38.42312142,Elk Grove,95624,"$600,500 ",https://www.zillow.com/homedetails/9566-Moon-River-Way-Elk-Grove-CA-95624/52614308_zpid/,"$6,500 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/29/2023,195,Elizabeth walker,"10517 Moledo Ct, Elk Grove, CA 95757",-121.4104997,38.37517216,Elk Grove,95757,"$1,047,000 ",https://www.zillow.com/homedetails/10517-Moledo-Ct-Elk-Grove-CA-95757/337976867_zpid/,"$28,000 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/31/2023,193,dean gardner,"1840 Terrace Cove Ct, Folsom, CA 95630",-121.1091574,38.66657585,Folsom,95630,"$855,500 ",https://www.zillow.com/homedetails/1840-Terrace-Cove-Ct-Folsom-CA-95630/54910216_zpid/,"$14,210 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
